@@ -1,0 +1,5 @@
+ros/mk
+/home/stephan/catkinws/devel/.private/mk/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/mk/share/mk/cmake/mkConfig.cmake /home/stephan/catkinws/devel/share/mk/cmake/mkConfig.cmake
+/home/stephan/catkinws/devel/.private/mk/share/mk/cmake/mkConfig-version.cmake /home/stephan/catkinws/devel/share/mk/cmake/mkConfig-version.cmake
+/home/stephan/catkinws/devel/.private/mk/lib/pkgconfig/mk.pc /home/stephan/catkinws/devel/lib/pkgconfig/mk.pc

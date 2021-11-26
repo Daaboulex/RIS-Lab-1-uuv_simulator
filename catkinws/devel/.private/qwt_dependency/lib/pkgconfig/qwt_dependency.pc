@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/qwt_dependency
+
+Name: qwt_dependency
+Description: Description of qwt_dependency
+Version: 1.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

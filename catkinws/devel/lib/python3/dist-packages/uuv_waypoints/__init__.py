@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/python3/dist-packages/uuv_waypoints/__init__.py

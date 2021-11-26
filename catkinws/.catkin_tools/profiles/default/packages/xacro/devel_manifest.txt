@@ -1,0 +1,10 @@
+xacro
+/home/stephan/catkinws/devel/.private/xacro/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/xacro/share/xacro/cmake/xacroConfig.cmake /home/stephan/catkinws/devel/share/xacro/cmake/xacroConfig.cmake
+/home/stephan/catkinws/devel/.private/xacro/share/xacro/cmake/xacroConfig-version.cmake /home/stephan/catkinws/devel/share/xacro/cmake/xacroConfig-version.cmake
+/home/stephan/catkinws/devel/.private/xacro/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/xacro/bin/xacro /home/stephan/catkinws/devel/bin/xacro
+/home/stephan/catkinws/devel/.private/xacro/lib/python3/dist-packages/xacro/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/xacro/__init__.py
+/home/stephan/catkinws/devel/.private/xacro/lib/pkgconfig/xacro.pc /home/stephan/catkinws/devel/lib/pkgconfig/xacro.pc
+/home/stephan/catkinws/devel/.private/xacro/lib/xacro/cmake.lock /home/stephan/catkinws/devel/lib/xacro/cmake.lock
+/home/stephan/catkinws/devel/.private/xacro/lib/xacro/xacro /home/stephan/catkinws/devel/lib/xacro/xacro

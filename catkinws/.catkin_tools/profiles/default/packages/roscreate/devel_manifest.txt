@@ -1,0 +1,8 @@
+ros/roscreate
+/home/stephan/catkinws/devel/.private/roscreate/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/roscreate/share/roscreate/cmake/roscreateConfig.cmake /home/stephan/catkinws/devel/share/roscreate/cmake/roscreateConfig.cmake
+/home/stephan/catkinws/devel/.private/roscreate/share/roscreate/cmake/roscreateConfig-version.cmake /home/stephan/catkinws/devel/share/roscreate/cmake/roscreateConfig-version.cmake
+/home/stephan/catkinws/devel/.private/roscreate/bin/roscreate-pkg /home/stephan/catkinws/devel/bin/roscreate-pkg
+/home/stephan/catkinws/devel/.private/roscreate/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/roscreate/lib/python3/dist-packages/roscreate/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/roscreate/__init__.py
+/home/stephan/catkinws/devel/.private/roscreate/lib/pkgconfig/roscreate.pc /home/stephan/catkinws/devel/lib/pkgconfig/roscreate.pc

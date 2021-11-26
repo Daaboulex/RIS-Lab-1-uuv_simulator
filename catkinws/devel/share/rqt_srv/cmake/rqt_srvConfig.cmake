@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_srv/share/rqt_srv/cmake/rqt_srvConfig.cmake

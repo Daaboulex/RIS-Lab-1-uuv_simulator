@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/smach/lib/python3/dist-packages/smach/__init__.py

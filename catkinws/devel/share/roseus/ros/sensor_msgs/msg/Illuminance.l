@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/sensor_msgs/share/roseus/ros/sensor_msgs/msg/Illuminance.l

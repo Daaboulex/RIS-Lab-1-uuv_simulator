@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/qwt_dependency/share/qwt_dependency/cmake/qwt_dependencyConfig-version.cmake

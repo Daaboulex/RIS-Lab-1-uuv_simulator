@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/roscpp_traits
+
+Name: roscpp_traits
+Description: Description of roscpp_traits
+Version: 0.7.2
+Cflags: -I/home/stephan/catkinws/src/roscpp_core/roscpp_traits/include
+Libs: -L${prefix}/lib 
+Requires: cpp_common rostime

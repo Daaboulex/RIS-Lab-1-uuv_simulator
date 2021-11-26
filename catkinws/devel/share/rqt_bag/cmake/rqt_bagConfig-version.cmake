@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_bag/share/rqt_bag/cmake/rqt_bagConfig-version.cmake

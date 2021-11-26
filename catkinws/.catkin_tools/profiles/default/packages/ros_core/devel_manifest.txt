@@ -1,0 +1,2 @@
+metapackages/ros_core
+/home/stephan/catkinws/devel/.private/ros_core/cmake.lock /home/stephan/catkinws/devel/./cmake.lock

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/sensor_msgs/lib/pkgconfig/sensor_msgs.pc

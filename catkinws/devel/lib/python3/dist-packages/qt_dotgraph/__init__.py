@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/qt_dotgraph/lib/python3/dist-packages/qt_dotgraph/__init__.py

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rviz_plugin_tutorials/share/rviz_plugin_tutorials/cmake/rviz_plugin_tutorialsConfig.cmake

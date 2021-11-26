@@ -1,0 +1,7 @@
+uuv_simulator/uuv_world_plugins/uuv_world_ros_plugins
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins/cmake.lock" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/./cmake.lock"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins/lib/libuuv_underwater_current_ros_plugin.so" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libuuv_underwater_current_ros_plugin.so"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins/lib/libuuv_sc_ros_interface_plugin.so" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libuuv_sc_ros_interface_plugin.so"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins/lib/pkgconfig/uuv_world_ros_plugins.pc" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_world_ros_plugins.pc"

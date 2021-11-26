@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_bag/lib/python3/dist-packages/rqt_bag/__init__.py

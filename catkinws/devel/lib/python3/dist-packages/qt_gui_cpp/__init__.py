@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/qt_gui_cpp/lib/python3/dist-packages/qt_gui_cpp/__init__.py

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_rviz/lib/python3/dist-packages/rqt_rviz/__init__.py

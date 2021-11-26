@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/catkin/local_setup.sh

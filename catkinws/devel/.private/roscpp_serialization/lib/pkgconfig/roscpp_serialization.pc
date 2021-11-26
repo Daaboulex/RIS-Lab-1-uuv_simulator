@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/roscpp_serialization
+
+Name: roscpp_serialization
+Description: Description of roscpp_serialization
+Version: 0.7.2
+Cflags: -I/home/stephan/catkinws/src/roscpp_core/roscpp_serialization/include
+Libs: -L${prefix}/lib -lroscpp_serialization
+Requires: cpp_common roscpp_traits rostime

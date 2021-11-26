@@ -1,0 +1,7 @@
+urdf/urdf
+/home/stephan/catkinws/devel/.private/urdf/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/urdf/share/urdf/cmake/urdfConfig-version.cmake /home/stephan/catkinws/devel/share/urdf/cmake/urdfConfig-version.cmake
+/home/stephan/catkinws/devel/.private/urdf/share/urdf/cmake/urdfConfig.cmake /home/stephan/catkinws/devel/share/urdf/cmake/urdfConfig.cmake
+/home/stephan/catkinws/devel/.private/urdf/lib/liburdf.so /home/stephan/catkinws/devel/lib/liburdf.so
+/home/stephan/catkinws/devel/.private/urdf/lib/pkgconfig/urdf.pc /home/stephan/catkinws/devel/lib/pkgconfig/urdf.pc
+/home/stephan/catkinws/devel/.private/urdf/include/urdf/urdfdom_compatibility.h /home/stephan/catkinws/devel/include/urdf/urdfdom_compatibility.h

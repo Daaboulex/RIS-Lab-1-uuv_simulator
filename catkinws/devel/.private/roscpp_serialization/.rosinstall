@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stephan/catkinws/devel/.private/roscpp_serialization/setup.sh

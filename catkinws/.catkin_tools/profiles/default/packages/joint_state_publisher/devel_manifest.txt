@@ -1,0 +1,8 @@
+joint_state_publisher/joint_state_publisher
+/home/stephan/catkinws/devel/.private/joint_state_publisher/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/joint_state_publisher/share/joint_state_publisher/cmake/joint_state_publisherConfig-version.cmake /home/stephan/catkinws/devel/share/joint_state_publisher/cmake/joint_state_publisherConfig-version.cmake
+/home/stephan/catkinws/devel/.private/joint_state_publisher/share/joint_state_publisher/cmake/joint_state_publisherConfig.cmake /home/stephan/catkinws/devel/share/joint_state_publisher/cmake/joint_state_publisherConfig.cmake
+/home/stephan/catkinws/devel/.private/joint_state_publisher/lib/python3/dist-packages/joint_state_publisher/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/joint_state_publisher/__init__.py
+/home/stephan/catkinws/devel/.private/joint_state_publisher/lib/pkgconfig/joint_state_publisher.pc /home/stephan/catkinws/devel/lib/pkgconfig/joint_state_publisher.pc
+/home/stephan/catkinws/devel/.private/joint_state_publisher/lib/joint_state_publisher/cmake.lock /home/stephan/catkinws/devel/lib/joint_state_publisher/cmake.lock
+/home/stephan/catkinws/devel/.private/joint_state_publisher/lib/joint_state_publisher/joint_state_publisher /home/stephan/catkinws/devel/lib/joint_state_publisher/joint_state_publisher

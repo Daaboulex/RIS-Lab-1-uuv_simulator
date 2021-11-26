@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/self_test/lib/pkgconfig/self_test.pc

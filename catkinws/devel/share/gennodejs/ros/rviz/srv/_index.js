@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rviz/share/gennodejs/ros/rviz/srv/_index.js

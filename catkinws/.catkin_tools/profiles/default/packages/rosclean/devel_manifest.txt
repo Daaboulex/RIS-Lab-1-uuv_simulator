@@ -1,0 +1,8 @@
+ros/rosclean
+/home/stephan/catkinws/devel/.private/rosclean/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosclean/share/rosclean/cmake/roscleanConfig.cmake /home/stephan/catkinws/devel/share/rosclean/cmake/roscleanConfig.cmake
+/home/stephan/catkinws/devel/.private/rosclean/share/rosclean/cmake/roscleanConfig-version.cmake /home/stephan/catkinws/devel/share/rosclean/cmake/roscleanConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosclean/bin/rosclean /home/stephan/catkinws/devel/bin/rosclean
+/home/stephan/catkinws/devel/.private/rosclean/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/rosclean/lib/python3/dist-packages/rosclean/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rosclean/__init__.py
+/home/stephan/catkinws/devel/.private/rosclean/lib/pkgconfig/rosclean.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosclean.pc

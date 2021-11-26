@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/bond/share/gennodejs/ros/bond/_index.js

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/genlisp/lib/pkgconfig/genlisp.pc

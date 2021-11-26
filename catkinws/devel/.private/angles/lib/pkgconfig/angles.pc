@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/angles
+
+Name: angles
+Description: Description of angles
+Version: 1.9.13
+Cflags: -I/home/stephan/catkinws/src/angles/include
+Libs: -L${prefix}/lib 
+Requires: 

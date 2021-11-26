@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/smach/share/smach/cmake/smachConfig.cmake

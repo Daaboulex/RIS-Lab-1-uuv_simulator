@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/actionlib/share/roseus/ros/actionlib/manifest.l

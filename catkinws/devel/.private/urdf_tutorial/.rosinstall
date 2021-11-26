@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stephan/catkinws/devel/.private/urdf_tutorial/setup.sh

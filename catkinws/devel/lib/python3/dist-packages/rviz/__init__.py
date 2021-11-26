@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rviz/lib/python3/dist-packages/rviz/__init__.py

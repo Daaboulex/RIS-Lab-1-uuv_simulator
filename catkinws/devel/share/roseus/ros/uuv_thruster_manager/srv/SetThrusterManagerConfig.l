@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/uuv_thruster_manager/share/roseus/ros/uuv_thruster_manager/srv/SetThrusterManagerConfig.l

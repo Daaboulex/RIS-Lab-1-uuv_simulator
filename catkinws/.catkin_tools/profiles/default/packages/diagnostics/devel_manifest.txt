@@ -1,0 +1,2 @@
+diagnostics/diagnostics
+/home/stephan/catkinws/devel/.private/diagnostics/cmake.lock /home/stephan/catkinws/devel/./cmake.lock

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roscpp/lib/python3/dist-packages/roscpp/srv/_GetLoggers.py

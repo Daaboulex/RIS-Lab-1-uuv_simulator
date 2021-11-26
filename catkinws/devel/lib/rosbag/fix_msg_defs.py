@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/fix_msg_defs.py

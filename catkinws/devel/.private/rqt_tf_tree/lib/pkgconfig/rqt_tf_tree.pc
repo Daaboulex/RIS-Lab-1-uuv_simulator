@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/rqt_tf_tree
+
+Name: rqt_tf_tree
+Description: Description of rqt_tf_tree
+Version: 0.6.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

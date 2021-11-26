@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_service_caller/share/rqt_service_caller/cmake/rqt_service_callerConfig.cmake

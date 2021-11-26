@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/nodelet/share/common-lisp/ros/nodelet/srv/_package_NodeletList.lisp

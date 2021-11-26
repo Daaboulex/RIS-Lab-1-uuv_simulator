@@ -1,0 +1,6 @@
+angles
+/home/stephan/catkinws/devel/.private/angles/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/angles/share/angles/cmake/anglesConfig-version.cmake /home/stephan/catkinws/devel/share/angles/cmake/anglesConfig-version.cmake
+/home/stephan/catkinws/devel/.private/angles/share/angles/cmake/anglesConfig.cmake /home/stephan/catkinws/devel/share/angles/cmake/anglesConfig.cmake
+/home/stephan/catkinws/devel/.private/angles/lib/python3/dist-packages/angles/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/angles/__init__.py
+/home/stephan/catkinws/devel/.private/angles/lib/pkgconfig/angles.pc /home/stephan/catkinws/devel/lib/pkgconfig/angles.pc

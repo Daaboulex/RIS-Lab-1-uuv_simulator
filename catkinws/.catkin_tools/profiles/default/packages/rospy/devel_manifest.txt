@@ -1,0 +1,12 @@
+ros_comm/rospy
+/home/stephan/catkinws/devel/.private/rospy/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rospy/share/rospy/rosbuild/scripts/cmake.lock /home/stephan/catkinws/devel/share/rospy/rosbuild/scripts/cmake.lock
+/home/stephan/catkinws/devel/.private/rospy/share/rospy/rosbuild/scripts/gensrv_py.py /home/stephan/catkinws/devel/share/rospy/rosbuild/scripts/gensrv_py.py
+/home/stephan/catkinws/devel/.private/rospy/share/rospy/rosbuild/scripts/genutil.py /home/stephan/catkinws/devel/share/rospy/rosbuild/scripts/genutil.py
+/home/stephan/catkinws/devel/.private/rospy/share/rospy/rosbuild/scripts/genmsg_py.py /home/stephan/catkinws/devel/share/rospy/rosbuild/scripts/genmsg_py.py
+/home/stephan/catkinws/devel/.private/rospy/share/rospy/cmake/rospyConfig.cmake /home/stephan/catkinws/devel/share/rospy/cmake/rospyConfig.cmake
+/home/stephan/catkinws/devel/.private/rospy/share/rospy/cmake/rospyConfig-version.cmake /home/stephan/catkinws/devel/share/rospy/cmake/rospyConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rospy/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/rospy/bin/rosconsole /home/stephan/catkinws/devel/bin/rosconsole
+/home/stephan/catkinws/devel/.private/rospy/lib/python3/dist-packages/rospy/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rospy/__init__.py
+/home/stephan/catkinws/devel/.private/rospy/lib/pkgconfig/rospy.pc /home/stephan/catkinws/devel/lib/pkgconfig/rospy.pc

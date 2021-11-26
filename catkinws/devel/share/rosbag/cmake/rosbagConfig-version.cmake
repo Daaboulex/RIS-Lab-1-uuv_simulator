@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig-version.cmake

@@ -1,0 +1,162 @@
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake
+Warning: Source hash: 15808e183bd49fd41de7b25e5eb1d2ff
+Warning: Dest hash: 3b7994e3ec5043bab474630018beb722
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake
+Warning: Source hash: 72c77409658b731ab325ca36f00cc908
+Warning: Dest hash: 53567f8a99267e44e2f5b3f19282ae52
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc
+Warning: Source hash: 15008e2c117f0f6b10d79b5bc62bb3bf
+Warning: Dest hash: b2ad913e08d2022a77e5c62436b4c62e
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/cmake.lock, /home/stephan/catkinws/devel/./cmake.lock)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/manifest.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/manifest.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake, /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig-version.cmake, /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig-version.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake, /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-paths.cmake, /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-paths.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetOriginSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetOriginSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentModel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentModel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetCurrentModel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetCurrentModel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentDirection.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentDirection.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetOriginSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetOriginSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformToSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformToSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformFromSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformFromSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentVelocity.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentVelocity.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/uuv_world_ros_plugins_msgs-srv.asd, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/uuv_world_ros_plugins_msgs-srv.asd)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc, /home/stephan/catkinws/devel/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentDirection.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirection.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoord.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoord.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoord.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoord.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentModelRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetCurrentModelResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetCurrentModel.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModel.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoord.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoord.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoord.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoord.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentModel.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModel.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentModelResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/GetCurrentModelRequest.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordResponse.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_world_ros_plugins_msgs/include/uuv_world_ros_plugins_msgs/SetCurrentVelocity.h, /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocity.h)
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/manifest.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.l
+Unlinking: /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig-version.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-paths.cmake
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetOriginSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentModel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetCurrentModel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentDirection.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetOriginSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformToSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformFromSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentVelocity.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/uuv_world_ros_plugins_msgs-srv.asd
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.lisp
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.js
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py
+Unlinking: /home/stephan/catkinws/devel/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirection.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoord.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoord.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModel.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoord.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoord.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModel.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentModelResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/GetCurrentModelRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_world_ros_plugins_msgs/SetCurrentVelocity.h

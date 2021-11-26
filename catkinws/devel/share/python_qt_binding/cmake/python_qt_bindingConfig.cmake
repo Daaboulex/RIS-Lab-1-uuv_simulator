@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/python_qt_binding/share/python_qt_binding/cmake/python_qt_bindingConfig.cmake

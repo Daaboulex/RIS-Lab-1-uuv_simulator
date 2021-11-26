@@ -1,0 +1,241 @@
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-extras.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-extras.cmake
+Warning: Source hash: 19f2453dd944156945be51d3319af942
+Warning: Dest hash: 62cac8ec6fb9486d2590a349c4553997
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-paths.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-paths.cmake
+Warning: Source hash: a71896d9923b8d7a61af921482ca6877
+Warning: Dest hash: c6954911762f7760648fc731e96fa967
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig.cmake
+Warning: Source hash: 8b66cb9704fb72d995c7fc0e051947e5
+Warning: Dest hash: 6276a97247eb6d07d731d4f4f849748e
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/pkgconfig/uuv_gazebo_ros_plugins_msgs.pc to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_gazebo_ros_plugins_msgs.pc
+Warning: Source hash: 9743ebe6c5742681752566c4b574605a
+Warning: Dest hash: cbb6a0c450c5437d89cdd8b4ef2c36c0
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/cmake.lock, /home/stephan/catkinws/devel/./cmake.lock)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-extras.cmake, /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-extras.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig-version.cmake, /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig-version.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-paths.cmake, /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-paths.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig.cmake, /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/manifest.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/manifest.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_FloatStamped.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_FloatStamped.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_ThrusterConversionFcn.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_ThrusterConversionFcn.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/uuv_gazebo_ros_plugins_msgs-msg.asd, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/uuv_gazebo_ros_plugins_msgs-msg.asd)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_UnderwaterObjectModel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_UnderwaterObjectModel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetFloat.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetFloat.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetListParam.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetListParam.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetModelProperties.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetModelProperties.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterEfficiency.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterEfficiency.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterConversionFcn.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterConversionFcn.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterEfficiency.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterEfficiency.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterState.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterState.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/uuv_gazebo_ros_plugins_msgs-srv.asd, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/uuv_gazebo_ros_plugins_msgs-srv.asd)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterState.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterState.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetUseGlobalCurrentVel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetUseGlobalCurrentVel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetFloat.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetFloat.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_UnderwaterObjectModel.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_UnderwaterObjectModel.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_FloatStamped.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_FloatStamped.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_ThrusterConversionFcn.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_ThrusterConversionFcn.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetModelProperties.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetModelProperties.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterConversionFcn.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterConversionFcn.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterEfficiency.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterEfficiency.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterState.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterState.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetUseGlobalCurrentVel.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetUseGlobalCurrentVel.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetFloat.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetFloat.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterState.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterState.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterEfficiency.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterEfficiency.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetFloat.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetFloat.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetListParam.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetListParam.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/pkgconfig/uuv_gazebo_ros_plugins_msgs.pc, /home/stephan/catkinws/devel/lib/pkgconfig/uuv_gazebo_ros_plugins_msgs.pc)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetListParamResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetListParamResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVel.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVel.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcn.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcn.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetFloatRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetFloatRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetFloat.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetFloat.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetFloat.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetFloat.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetListParamRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetListParamRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetFloatRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetFloatRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/FloatStamped.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/FloatStamped.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/ThrusterConversionFcn.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/ThrusterConversionFcn.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetFloatResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetFloatResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetModelProperties.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetModelProperties.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetThrusterState.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterState.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterState.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterState.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetFloatResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetFloatResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiency.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiency.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiency.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiency.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetListParam.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetListParam.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/UnderwaterObjectModel.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/UnderwaterObjectModel.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelRequest.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins_msgs/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelResponse.h, /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelResponse.h)
+Unlinking: /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-extras.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig-version.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-paths.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig.cmake
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/manifest.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.l
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_FloatStamped.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_ThrusterConversionFcn.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/uuv_gazebo_ros_plugins_msgs-msg.asd
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_UnderwaterObjectModel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetFloat.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetListParam.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetModelProperties.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterEfficiency.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterConversionFcn.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterEfficiency.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterState.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/uuv_gazebo_ros_plugins_msgs-srv.asd
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterState.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetUseGlobalCurrentVel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetFloat.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.lisp
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.js
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_UnderwaterObjectModel.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_FloatStamped.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_ThrusterConversionFcn.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetModelProperties.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterConversionFcn.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterEfficiency.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterState.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetUseGlobalCurrentVel.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetFloat.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterState.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterEfficiency.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetFloat.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetListParam.py
+Unlinking: /home/stephan/catkinws/devel/lib/pkgconfig/uuv_gazebo_ros_plugins_msgs.pc
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetListParamResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVel.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcn.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetFloatRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetFloat.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetFloat.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetListParamRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetFloatRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/FloatStamped.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/ThrusterConversionFcn.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetFloatResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetModelProperties.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterState.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterState.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetFloatResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiency.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiency.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetListParam.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/UnderwaterObjectModel.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelResponse.h

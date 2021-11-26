@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosunit/share/rosunit/scripts/clean_junit_xml.py

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_robot_monitor/lib/pkgconfig/rqt_robot_monitor.pc

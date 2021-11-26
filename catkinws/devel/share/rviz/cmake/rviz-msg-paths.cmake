@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rviz/share/rviz/cmake/rviz-msg-paths.cmake

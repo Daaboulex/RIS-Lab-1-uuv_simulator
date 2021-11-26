@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/angles/share/angles/cmake/anglesConfig.cmake

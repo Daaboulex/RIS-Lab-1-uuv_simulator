@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roscpp/share/roscpp/cmake/roscpp-msg-extras.cmake

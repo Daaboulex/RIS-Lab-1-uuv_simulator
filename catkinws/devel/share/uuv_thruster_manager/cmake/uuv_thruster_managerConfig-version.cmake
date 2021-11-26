@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/uuv_thruster_manager/share/uuv_thruster_manager/cmake/uuv_thruster_managerConfig-version.cmake

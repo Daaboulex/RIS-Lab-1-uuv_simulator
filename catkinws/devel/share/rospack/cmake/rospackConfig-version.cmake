@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rospack/share/rospack/cmake/rospackConfig-version.cmake

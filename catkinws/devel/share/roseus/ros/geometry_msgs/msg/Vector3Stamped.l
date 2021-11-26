@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/geometry_msgs/share/roseus/ros/geometry_msgs/msg/Vector3Stamped.l

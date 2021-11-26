@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_sensor_ros_plugins/setup.sh

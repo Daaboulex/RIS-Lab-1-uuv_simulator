@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/shape_msgs/share/roseus/ros/shape_msgs/msg/MeshTriangle.l

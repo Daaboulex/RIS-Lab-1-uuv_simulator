@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roslang/share/roslang/cmake/roslangConfig-version.cmake

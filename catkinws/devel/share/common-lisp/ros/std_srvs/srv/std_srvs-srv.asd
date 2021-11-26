@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/std_srvs/share/common-lisp/ros/std_srvs/srv/std_srvs-srv.asd

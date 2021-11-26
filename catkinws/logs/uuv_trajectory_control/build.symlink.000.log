@@ -1,0 +1,80 @@
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig.cmake
+Warning: Source hash: 5fbccff3bc1d0a145b7aa0b45fada565
+Warning: Dest hash: a4eb202358cb18df5fa0e20fd6b226ac
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/auv_geometric_tracking_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/auv_geometric_tracking_controller.py
+Warning: Source hash: 273c3724f43b767a6748d1a2d68f8a64
+Warning: Dest hash: ccd430869a46c4091459b7cfb260a69b
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_pd_grav_compensation_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_pd_grav_compensation_controller.py
+Warning: Source hash: cbef35ce5b50c463776da9d1491200fd
+Warning: Dest hash: 048ecbd65e58bab0ca2c86d288099bb6
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/demo_wp_trajectory_generator.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/demo_wp_trajectory_generator.py
+Warning: Source hash: ae0acb0affee6ddf0333bc70868a5f77
+Warning: Dest hash: 373af85a570c52a4b18422019e762a0f
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_nl_pid_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_nl_pid_controller.py
+Warning: Source hash: 34053bd0e53d3eec706eaab371e228d2
+Warning: Dest hash: f821d5c74364ad6b2ef9e538d933299a
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_mb_sm_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_mb_sm_controller.py
+Warning: Source hash: f761a562beadc406d065994f81fb4f02
+Warning: Dest hash: 48008ed237f8238e1b43e8f8ca304e0f
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_mb_fl_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_mb_fl_controller.py
+Warning: Source hash: 6c350ea156cc05bf32a429b6f6590096
+Warning: Dest hash: 3dc6fd6b9a876bf6e3ec05e89e7d3b43
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_ua_pid_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_ua_pid_controller.py
+Warning: Source hash: 7bb55f459bba6803a619fdf8f4648537
+Warning: Dest hash: 5c304278d5d8522c0fcd60fef88618be
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_nmb_sm_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_nmb_sm_controller.py
+Warning: Source hash: 97f1335e0fde7f6091f4535965834b50
+Warning: Dest hash: 9406e90e38d005685df5dc4b0680c5ea
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_sf_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_sf_controller.py
+Warning: Source hash: 16d557b2035941b8d60cdf3102bdb935
+Warning: Dest hash: 262702854b172685caac82f35a7e178b
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_pid_controller.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_trajectory_control/rov_pid_controller.py
+Warning: Source hash: 21869149879a6d2431e2934ec66dfeae
+Warning: Dest hash: 220919219b7e7952db740c5457343380
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/python3/dist-packages/uuv_control_interfaces/__init__.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/python3/dist-packages/uuv_control_interfaces/__init__.py
+Warning: Source hash: 71da0cf31ef9f9df3da30902774c2b93
+Warning: Dest hash: f505f2e8ea2ea6edc9ea2e6e53c0eb8c
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/python3/dist-packages/uuv_trajectory_generator/__init__.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/python3/dist-packages/uuv_trajectory_generator/__init__.py
+Warning: Source hash: 71da0cf31ef9f9df3da30902774c2b93
+Warning: Dest hash: f505f2e8ea2ea6edc9ea2e6e53c0eb8c
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/python3/dist-packages/uuv_waypoints/__init__.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/python3/dist-packages/uuv_waypoints/__init__.py
+Warning: Source hash: 71da0cf31ef9f9df3da30902774c2b93
+Warning: Dest hash: f505f2e8ea2ea6edc9ea2e6e53c0eb8c
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_trajectory_control/lib/pkgconfig/uuv_trajectory_control.pc to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_trajectory_control.pc
+Warning: Source hash: bae33b457b7df435affed3065bc7adb3
+Warning: Dest hash: 9df586fe04467ca539a8b3fe2a40c498
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/cmake.lock, /home/stephan/catkinws/devel/./cmake.lock)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig-version.cmake, /home/stephan/catkinws/devel/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig-version.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig.cmake, /home/stephan/catkinws/devel/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/auv_geometric_tracking_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/auv_geometric_tracking_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_pd_grav_compensation_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_pd_grav_compensation_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/demo_wp_trajectory_generator.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/demo_wp_trajectory_generator.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_nl_pid_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_nl_pid_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/cmake.lock, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/cmake.lock)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_mb_sm_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_mb_sm_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_mb_fl_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_mb_fl_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_ua_pid_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_ua_pid_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_nmb_sm_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_nmb_sm_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_sf_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_sf_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/uuv_trajectory_control/rov_pid_controller.py, /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_pid_controller.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/python3/dist-packages/uuv_control_interfaces/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_interfaces/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/python3/dist-packages/uuv_trajectory_generator/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_trajectory_generator/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/python3/dist-packages/uuv_waypoints/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_waypoints/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_trajectory_control/lib/pkgconfig/uuv_trajectory_control.pc, /home/stephan/catkinws/devel/lib/pkgconfig/uuv_trajectory_control.pc)
+Unlinking: /home/stephan/catkinws/devel/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig-version.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig.cmake
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/auv_geometric_tracking_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_pd_grav_compensation_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/demo_wp_trajectory_generator.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_nl_pid_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/cmake.lock
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_mb_sm_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_mb_fl_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_ua_pid_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_nmb_sm_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_sf_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/uuv_trajectory_control/rov_pid_controller.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_interfaces/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_trajectory_generator/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_waypoints/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/pkgconfig/uuv_trajectory_control.pc

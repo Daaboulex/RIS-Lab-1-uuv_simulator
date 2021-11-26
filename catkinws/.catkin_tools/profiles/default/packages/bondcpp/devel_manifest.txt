@@ -1,0 +1,6 @@
+bond_core/bondcpp
+/home/stephan/catkinws/devel/.private/bondcpp/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/bondcpp/share/bondcpp/cmake/bondcppConfig-version.cmake /home/stephan/catkinws/devel/share/bondcpp/cmake/bondcppConfig-version.cmake
+/home/stephan/catkinws/devel/.private/bondcpp/share/bondcpp/cmake/bondcppConfig.cmake /home/stephan/catkinws/devel/share/bondcpp/cmake/bondcppConfig.cmake
+/home/stephan/catkinws/devel/.private/bondcpp/lib/libbondcpp.so /home/stephan/catkinws/devel/lib/libbondcpp.so
+/home/stephan/catkinws/devel/.private/bondcpp/lib/pkgconfig/bondcpp.pc /home/stephan/catkinws/devel/lib/pkgconfig/bondcpp.pc

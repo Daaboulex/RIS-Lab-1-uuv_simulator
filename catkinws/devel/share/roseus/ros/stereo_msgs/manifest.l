@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/stereo_msgs/share/roseus/ros/stereo_msgs/manifest.l

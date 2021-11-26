@@ -1,0 +1,8 @@
+ros_comm/roslz4
+/home/stephan/catkinws/devel/.private/roslz4/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/roslz4/share/roslz4/cmake/roslz4Config.cmake /home/stephan/catkinws/devel/share/roslz4/cmake/roslz4Config.cmake
+/home/stephan/catkinws/devel/.private/roslz4/share/roslz4/cmake/roslz4Config-version.cmake /home/stephan/catkinws/devel/share/roslz4/cmake/roslz4Config-version.cmake
+/home/stephan/catkinws/devel/.private/roslz4/lib/libroslz4.so /home/stephan/catkinws/devel/lib/libroslz4.so
+/home/stephan/catkinws/devel/.private/roslz4/lib/python3/dist-packages/roslz4/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/roslz4/__init__.py
+/home/stephan/catkinws/devel/.private/roslz4/lib/python3/dist-packages/roslz4/_roslz4.so /home/stephan/catkinws/devel/lib/python3/dist-packages/roslz4/_roslz4.so
+/home/stephan/catkinws/devel/.private/roslz4/lib/pkgconfig/roslz4.pc /home/stephan/catkinws/devel/lib/pkgconfig/roslz4.pc

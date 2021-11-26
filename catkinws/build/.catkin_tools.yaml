@@ -1,0 +1,6 @@
+devel_space: /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel
+install: false
+install_space: /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/install
+profile: default
+source_space: /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/src
+workspace: /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws

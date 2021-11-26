@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/librviz_tutorial/share/librviz_tutorial/cmake/librviz_tutorialConfig.cmake

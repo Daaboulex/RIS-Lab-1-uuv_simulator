@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/interactive_marker_tutorials/lib/pkgconfig/interactive_marker_tutorials.pc

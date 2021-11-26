@@ -1,0 +1,2 @@
+geometry_tutorials/geometry_tutorials
+/home/stephan/catkinws/devel/.private/geometry_tutorials/cmake.lock /home/stephan/catkinws/devel/./cmake.lock

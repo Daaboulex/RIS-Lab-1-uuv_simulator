@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rviz/share/roseus/ros/rviz/manifest.l

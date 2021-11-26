@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_nav_view/lib/pkgconfig/rqt_nav_view.pc

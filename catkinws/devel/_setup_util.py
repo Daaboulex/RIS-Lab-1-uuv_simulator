@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/catkin/_setup_util.py

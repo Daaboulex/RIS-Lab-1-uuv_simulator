@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/resource_retriever/lib/python3/dist-packages/resource_retriever/__init__.py

@@ -1,0 +1,445 @@
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_control_msgs/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-extras.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-extras.cmake
+Warning: Source hash: 198669be0a737a847b2d5d4e2aa9c0f2
+Warning: Dest hash: c2cb7d46dda49a1fbac09b6c3d3270e5
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_control_msgs/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-paths.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-paths.cmake
+Warning: Source hash: 00f1febbd0b1ab1b0ca3ccbed823b202
+Warning: Dest hash: f4cbbaa90d452ef34f2f84f821e1853c
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_control_msgs/share/uuv_control_msgs/cmake/uuv_control_msgsConfig.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgsConfig.cmake
+Warning: Source hash: 3a762be2e6fe12b50e70f3ce92dcae4d
+Warning: Dest hash: 896ed9eaff8596d6c8e6dc4c14c8ce76
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_control_msgs/lib/pkgconfig/uuv_control_msgs.pc to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_control_msgs.pc
+Warning: Source hash: 070476677e3e785d2a3471f925961b8b
+Warning: Dest hash: 1474565d6e30d4a4edaa646ac986865f
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/cmake.lock, /home/stephan/catkinws/devel/./cmake.lock)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-extras.cmake, /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-extras.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-paths.cmake, /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-paths.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/uuv_control_msgs/cmake/uuv_control_msgsConfig-version.cmake, /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgsConfig-version.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/uuv_control_msgs/cmake/uuv_control_msgsConfig.cmake, /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgsConfig.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/manifest.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/manifest.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/msg/TrajectoryPoint.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/TrajectoryPoint.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/msg/Waypoint.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/Waypoint.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/msg/Trajectory.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/Trajectory.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/msg/WaypointSet.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/WaypointSet.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/Hold.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/Hold.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/SetSMControllerParams.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SetSMControllerParams.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/GetMBSMControllerParams.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetMBSMControllerParams.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/ResetController.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/ResetController.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/SwitchToAutomatic.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SwitchToAutomatic.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/GoTo.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GoTo.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/GetSMControllerParams.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetSMControllerParams.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/IsRunningTrajectory.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/IsRunningTrajectory.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/InitWaypointSet.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitWaypointSet.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/GoToIncremental.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GoToIncremental.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/InitRectTrajectory.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitRectTrajectory.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/GetWaypoints.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetWaypoints.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/GetPIDParams.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetPIDParams.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/SetPIDParams.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SetPIDParams.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/InitWaypointsFromFile.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitWaypointsFromFile.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/InitHelicalTrajectory.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitHelicalTrajectory.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/SetMBSMControllerParams.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SetMBSMControllerParams.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/InitCircularTrajectory.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitCircularTrajectory.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/AddWaypoint.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/AddWaypoint.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/ClearWaypoints.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/ClearWaypoints.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/StartTrajectory.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/StartTrajectory.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/roseus/ros/uuv_control_msgs/srv/SwitchToManual.l, /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SwitchToManual.l)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/_package.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/Waypoint.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/Waypoint.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/Trajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/Trajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/_package_TrajectoryPoint.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_TrajectoryPoint.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/TrajectoryPoint.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/TrajectoryPoint.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/_package_Trajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_Trajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/uuv_control_msgs-msg.asd, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/uuv_control_msgs-msg.asd)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/_package_WaypointSet.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_WaypointSet.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/_package_Waypoint.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_Waypoint.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/msg/WaypointSet.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/WaypointSet.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoTo.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoTo.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/SetPIDParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SetPIDParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/GetWaypoints.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetWaypoints.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointSet.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointSet.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitHelicalTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitHelicalTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_StartTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_StartTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitCircularTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitCircularTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoToIncremental.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoToIncremental.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_Hold.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_Hold.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_ResetController.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_ResetController.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/GetMBSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetMBSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/InitHelicalTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitHelicalTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToAutomatic.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToAutomatic.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitRectTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitRectTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/Hold.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/Hold.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_AddWaypoint.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_AddWaypoint.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointsFromFile.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointsFromFile.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetMBSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetMBSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/SetSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SetSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/GetSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_IsRunningTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_IsRunningTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetWaypoints.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetWaypoints.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/IsRunningTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/IsRunningTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToAutomatic.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToAutomatic.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetPIDParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetPIDParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/GoTo.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GoTo.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/ClearWaypoints.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/ClearWaypoints.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetMBSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetMBSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_ClearWaypoints.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_ClearWaypoints.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/InitCircularTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitCircularTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/GoToIncremental.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GoToIncremental.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/InitRectTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitRectTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/uuv_control_msgs-srv.asd, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/uuv_control_msgs-srv.asd)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetPIDParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetPIDParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointsFromFile.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointsFromFile.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/StartTrajectory.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/StartTrajectory.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/ResetController.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/ResetController.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/GetPIDParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetPIDParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/SetMBSMControllerParams.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SetMBSMControllerParams.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToManual.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToManual.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/AddWaypoint.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/AddWaypoint.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToManual.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToManual.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointSet.lisp, /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointSet.lisp)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/msg/WaypointSet.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/WaypointSet.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/msg/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/msg/TrajectoryPoint.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/TrajectoryPoint.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/msg/Waypoint.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/Waypoint.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/msg/Trajectory.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/Trajectory.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/ClearWaypoints.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/ClearWaypoints.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/StartTrajectory.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/StartTrajectory.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/GetWaypoints.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetWaypoints.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/GoToIncremental.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GoToIncremental.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/GetSMControllerParams.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetSMControllerParams.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/_index.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/_index.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointsFromFile.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointsFromFile.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToAutomatic.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToAutomatic.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/Hold.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/Hold.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/IsRunningTrajectory.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/IsRunningTrajectory.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToManual.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToManual.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/SetMBSMControllerParams.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SetMBSMControllerParams.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/InitCircularTrajectory.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitCircularTrajectory.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/GetMBSMControllerParams.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetMBSMControllerParams.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/InitRectTrajectory.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitRectTrajectory.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/GoTo.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GoTo.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/InitHelicalTrajectory.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitHelicalTrajectory.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/SetSMControllerParams.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SetSMControllerParams.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/ResetController.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/ResetController.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/GetPIDParams.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetPIDParams.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/AddWaypoint.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/AddWaypoint.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/SetPIDParams.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SetPIDParams.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointSet.js, /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointSet.js)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_TrajectoryPoint.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_TrajectoryPoint.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_Waypoint.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_Waypoint.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_WaypointSet.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_WaypointSet.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_Trajectory.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_Trajectory.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToManual.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToManual.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitCircularTrajectory.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitCircularTrajectory.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetWaypoints.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetWaypoints.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitRectTrajectory.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitRectTrajectory.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_StartTrajectory.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_StartTrajectory.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointSet.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointSet.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetMBSMControllerParams.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetMBSMControllerParams.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_ResetController.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_ResetController.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_Hold.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_Hold.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointsFromFile.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointsFromFile.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/__init__.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/__init__.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_AddWaypoint.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_AddWaypoint.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitHelicalTrajectory.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitHelicalTrajectory.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SetSMControllerParams.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SetSMControllerParams.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetPIDParams.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetPIDParams.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_IsRunningTrajectory.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_IsRunningTrajectory.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToAutomatic.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToAutomatic.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GoTo.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GoTo.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GoToIncremental.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GoToIncremental.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_ClearWaypoints.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_ClearWaypoints.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SetPIDParams.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SetPIDParams.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetSMControllerParams.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetSMControllerParams.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SetMBSMControllerParams.py, /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SetMBSMControllerParams.py)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/lib/pkgconfig/uuv_control_msgs.pc, /home/stephan/catkinws/devel/lib/pkgconfig/uuv_control_msgs.pc)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/ResetController.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/ResetController.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GoToIncrementalRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToIncrementalRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetPIDParams.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetPIDParams.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/IsRunningTrajectoryRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/IsRunningTrajectoryRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GoToIncrementalResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToIncrementalResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/IsRunningTrajectory.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/IsRunningTrajectory.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SwitchToManualResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToManualResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitCircularTrajectory.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitCircularTrajectory.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetSMControllerParamsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetSMControllerParamsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/ClearWaypointsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/ClearWaypointsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/StartTrajectoryResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/StartTrajectoryResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetWaypointsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetWaypointsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitCircularTrajectoryRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitCircularTrajectoryRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SwitchToAutomatic.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToAutomatic.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetMBSMControllerParamsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetMBSMControllerParamsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetMBSMControllerParams.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetMBSMControllerParams.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetSMControllerParams.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetSMControllerParams.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetWaypoints.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetWaypoints.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitRectTrajectoryResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitRectTrajectoryResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GoTo.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GoTo.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitWaypointSetRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointSetRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/WaypointSet.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/WaypointSet.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GoToRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SwitchToAutomaticRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToAutomaticRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetPIDParams.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetPIDParams.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetMBSMControllerParams.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetMBSMControllerParams.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/StartTrajectoryRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/StartTrajectoryRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetPIDParamsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetPIDParamsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SwitchToManual.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToManual.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GoToResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/AddWaypointRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/AddWaypointRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetPIDParamsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetPIDParamsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/AddWaypoint.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/AddWaypoint.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/ResetControllerRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/ResetControllerRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/AddWaypointResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/AddWaypointResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitHelicalTrajectoryRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitHelicalTrajectoryRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/ClearWaypointsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/ClearWaypointsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitRectTrajectory.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitRectTrajectory.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GoToIncremental.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToIncremental.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/IsRunningTrajectoryResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/IsRunningTrajectoryResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitRectTrajectoryRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitRectTrajectoryRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetPIDParamsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetPIDParamsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetSMControllerParamsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetSMControllerParamsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetMBSMControllerParamsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetMBSMControllerParamsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitWaypointsFromFileResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointsFromFileResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitHelicalTrajectory.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitHelicalTrajectory.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitCircularTrajectoryResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitCircularTrajectoryResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/Trajectory.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/Trajectory.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SwitchToAutomaticResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToAutomaticResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/Waypoint.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/Waypoint.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitWaypointsFromFileRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointsFromFileRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetMBSMControllerParamsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetMBSMControllerParamsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/ClearWaypoints.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/ClearWaypoints.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetPIDParamsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetPIDParamsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/TrajectoryPoint.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/TrajectoryPoint.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetSMControllerParams.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetSMControllerParams.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetSMControllerParamsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetSMControllerParamsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetMBSMControllerParamsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetMBSMControllerParamsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitWaypointSet.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointSet.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/ResetControllerResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/ResetControllerResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitWaypointsFromFile.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointsFromFile.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/StartTrajectory.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/StartTrajectory.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitWaypointSetResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointSetResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SetSMControllerParamsResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SetSMControllerParamsResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/Hold.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/Hold.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/GetWaypointsRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/GetWaypointsRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/SwitchToManualRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToManualRequest.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/HoldResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/HoldResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/InitHelicalTrajectoryResponse.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/InitHelicalTrajectoryResponse.h)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_control_msgs/include/uuv_control_msgs/HoldRequest.h, /home/stephan/catkinws/devel/include/uuv_control_msgs/HoldRequest.h)
+Unlinking: /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-extras.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-paths.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgsConfig-version.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_control_msgs/cmake/uuv_control_msgsConfig.cmake
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/manifest.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/TrajectoryPoint.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/Waypoint.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/Trajectory.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/msg/WaypointSet.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/Hold.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SetSMControllerParams.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetMBSMControllerParams.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/ResetController.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SwitchToAutomatic.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GoTo.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetSMControllerParams.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/IsRunningTrajectory.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitWaypointSet.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GoToIncremental.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitRectTrajectory.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetWaypoints.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/GetPIDParams.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SetPIDParams.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitWaypointsFromFile.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitHelicalTrajectory.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SetMBSMControllerParams.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/InitCircularTrajectory.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/AddWaypoint.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/ClearWaypoints.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/StartTrajectory.l
+Unlinking: /home/stephan/catkinws/devel/share/roseus/ros/uuv_control_msgs/srv/SwitchToManual.l
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/Waypoint.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/Trajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_TrajectoryPoint.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/TrajectoryPoint.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_Trajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/uuv_control_msgs-msg.asd
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_WaypointSet.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/_package_Waypoint.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/msg/WaypointSet.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoTo.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SetPIDParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetWaypoints.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointSet.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitHelicalTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_StartTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitCircularTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoToIncremental.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_Hold.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_ResetController.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetMBSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitHelicalTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToAutomatic.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitRectTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/Hold.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_AddWaypoint.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointsFromFile.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetMBSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SetSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_IsRunningTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetWaypoints.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/IsRunningTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToAutomatic.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetPIDParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GoTo.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/ClearWaypoints.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetMBSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_ClearWaypoints.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitCircularTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GoToIncremental.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitRectTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/uuv_control_msgs-srv.asd
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetPIDParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointsFromFile.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/StartTrajectory.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/ResetController.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/GetPIDParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SetMBSMControllerParams.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToManual.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/AddWaypoint.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToManual.lisp
+Unlinking: /home/stephan/catkinws/devel/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointSet.lisp
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/WaypointSet.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/TrajectoryPoint.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/Waypoint.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/msg/Trajectory.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/ClearWaypoints.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/StartTrajectory.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetWaypoints.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GoToIncremental.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetSMControllerParams.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/_index.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointsFromFile.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToAutomatic.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/Hold.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/IsRunningTrajectory.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToManual.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SetMBSMControllerParams.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitCircularTrajectory.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetMBSMControllerParams.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitRectTrajectory.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GoTo.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitHelicalTrajectory.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SetSMControllerParams.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/ResetController.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/GetPIDParams.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/AddWaypoint.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/SetPIDParams.js
+Unlinking: /home/stephan/catkinws/devel/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointSet.js
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_TrajectoryPoint.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_Waypoint.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_WaypointSet.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/msg/_Trajectory.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToManual.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitCircularTrajectory.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetWaypoints.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitRectTrajectory.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_StartTrajectory.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointSet.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetMBSMControllerParams.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_ResetController.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_Hold.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointsFromFile.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/__init__.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_AddWaypoint.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_InitHelicalTrajectory.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SetSMControllerParams.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetPIDParams.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_IsRunningTrajectory.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToAutomatic.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GoTo.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GoToIncremental.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_ClearWaypoints.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SetPIDParams.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_GetSMControllerParams.py
+Unlinking: /home/stephan/catkinws/devel/lib/python3/dist-packages/uuv_control_msgs/srv/_SetMBSMControllerParams.py
+Unlinking: /home/stephan/catkinws/devel/lib/pkgconfig/uuv_control_msgs.pc
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/ResetController.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToIncrementalRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetPIDParams.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/IsRunningTrajectoryRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToIncrementalResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/IsRunningTrajectory.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToManualResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitCircularTrajectory.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetSMControllerParamsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/ClearWaypointsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/StartTrajectoryResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetWaypointsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitCircularTrajectoryRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToAutomatic.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetMBSMControllerParamsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetMBSMControllerParams.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetSMControllerParams.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetWaypoints.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitRectTrajectoryResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GoTo.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointSetRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/WaypointSet.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToAutomaticRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetPIDParams.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetMBSMControllerParams.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/StartTrajectoryRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetPIDParamsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToManual.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/AddWaypointRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetPIDParamsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/AddWaypoint.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/ResetControllerRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/AddWaypointResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitHelicalTrajectoryRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/ClearWaypointsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitRectTrajectory.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GoToIncremental.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/IsRunningTrajectoryResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitRectTrajectoryRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetPIDParamsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetSMControllerParamsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetMBSMControllerParamsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointsFromFileResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitHelicalTrajectory.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitCircularTrajectoryResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/Trajectory.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToAutomaticResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/Waypoint.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointsFromFileRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetMBSMControllerParamsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/ClearWaypoints.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetPIDParamsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/TrajectoryPoint.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetSMControllerParams.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetSMControllerParamsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetMBSMControllerParamsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointSet.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/ResetControllerResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointsFromFile.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/StartTrajectory.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitWaypointSetResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SetSMControllerParamsResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/Hold.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/GetWaypointsRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/SwitchToManualRequest.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/HoldResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/InitHelicalTrajectoryResponse.h
+Unlinking: /home/stephan/catkinws/devel/include/uuv_control_msgs/HoldRequest.h

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/actionlib_tutorials/share/actionlib_tutorials/msg/AveragingActionResult.msg

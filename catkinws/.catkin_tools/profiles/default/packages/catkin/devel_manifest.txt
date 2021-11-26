@@ -1,0 +1,23 @@
+catkin
+/home/stephan/catkinws/devel/.private/catkin/local_setup.zsh /home/stephan/catkinws/devel/./local_setup.zsh
+/home/stephan/catkinws/devel/.private/catkin/local_setup.bash /home/stephan/catkinws/devel/./local_setup.bash
+/home/stephan/catkinws/devel/.private/catkin/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/catkin/local_setup.sh /home/stephan/catkinws/devel/./local_setup.sh
+/home/stephan/catkinws/devel/.private/catkin/setup.sh /home/stephan/catkinws/devel/./setup.sh
+/home/stephan/catkinws/devel/.private/catkin/setup.bash /home/stephan/catkinws/devel/./setup.bash
+/home/stephan/catkinws/devel/.private/catkin/_setup_util.py /home/stephan/catkinws/devel/./_setup_util.py
+/home/stephan/catkinws/devel/.private/catkin/setup.zsh /home/stephan/catkinws/devel/./setup.zsh
+/home/stephan/catkinws/devel/.private/catkin/env.sh /home/stephan/catkinws/devel/./env.sh
+/home/stephan/catkinws/devel/.private/catkin/share/catkin/cmake/catkinConfig.cmake /home/stephan/catkinws/devel/share/catkin/cmake/catkinConfig.cmake
+/home/stephan/catkinws/devel/.private/catkin/share/catkin/cmake/catkinConfig-version.cmake /home/stephan/catkinws/devel/share/catkin/cmake/catkinConfig-version.cmake
+/home/stephan/catkinws/devel/.private/catkin/etc/catkin/profile.d/05.catkin_make_isolated.bash /home/stephan/catkinws/devel/etc/catkin/profile.d/05.catkin_make_isolated.bash
+/home/stephan/catkinws/devel/.private/catkin/etc/catkin/profile.d/05.catkin_make.bash /home/stephan/catkinws/devel/etc/catkin/profile.d/05.catkin_make.bash
+/home/stephan/catkinws/devel/.private/catkin/bin/catkin_topological_order /home/stephan/catkinws/devel/bin/catkin_topological_order
+/home/stephan/catkinws/devel/.private/catkin/bin/catkin_test_results /home/stephan/catkinws/devel/bin/catkin_test_results
+/home/stephan/catkinws/devel/.private/catkin/bin/catkin_find /home/stephan/catkinws/devel/bin/catkin_find
+/home/stephan/catkinws/devel/.private/catkin/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/catkin/bin/catkin_make_isolated /home/stephan/catkinws/devel/bin/catkin_make_isolated
+/home/stephan/catkinws/devel/.private/catkin/bin/catkin_init_workspace /home/stephan/catkinws/devel/bin/catkin_init_workspace
+/home/stephan/catkinws/devel/.private/catkin/bin/catkin_make /home/stephan/catkinws/devel/bin/catkin_make
+/home/stephan/catkinws/devel/.private/catkin/lib/python3/dist-packages/catkin/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/catkin/__init__.py
+/home/stephan/catkinws/devel/.private/catkin/lib/pkgconfig/catkin.pc /home/stephan/catkinws/devel/lib/pkgconfig/catkin.pc

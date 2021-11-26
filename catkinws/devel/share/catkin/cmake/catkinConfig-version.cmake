@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/catkin/share/catkin/cmake/catkinConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/smach_msgs/share/gennodejs/ros/smach_msgs/msg/SmachContainerInitialStatusCmd.js

@@ -1,0 +1,10 @@
+gennodejs
+/home/stephan/catkinws/devel/.private/gennodejs/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/gennodejs/share/gennodejs/cmake/gennodejs-extras.cmake /home/stephan/catkinws/devel/share/gennodejs/cmake/gennodejs-extras.cmake
+/home/stephan/catkinws/devel/.private/gennodejs/share/gennodejs/cmake/gennodejsConfig.cmake /home/stephan/catkinws/devel/share/gennodejs/cmake/gennodejsConfig.cmake
+/home/stephan/catkinws/devel/.private/gennodejs/share/gennodejs/cmake/gennodejsConfig-version.cmake /home/stephan/catkinws/devel/share/gennodejs/cmake/gennodejsConfig-version.cmake
+/home/stephan/catkinws/devel/.private/gennodejs/etc/ros/genmsg/gennodejs /home/stephan/catkinws/devel/etc/ros/genmsg/gennodejs
+/home/stephan/catkinws/devel/.private/gennodejs/lib/python3/dist-packages/gennodejs/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/gennodejs/__init__.py
+/home/stephan/catkinws/devel/.private/gennodejs/lib/pkgconfig/gennodejs.pc /home/stephan/catkinws/devel/lib/pkgconfig/gennodejs.pc
+/home/stephan/catkinws/devel/.private/gennodejs/lib/gennodejs/cmake.lock /home/stephan/catkinws/devel/lib/gennodejs/cmake.lock
+/home/stephan/catkinws/devel/.private/gennodejs/lib/gennodejs/gen_nodejs.py /home/stephan/catkinws/devel/lib/gennodejs/gen_nodejs.py

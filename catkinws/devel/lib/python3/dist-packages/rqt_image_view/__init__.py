@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_image_view/lib/python3/dist-packages/rqt_image_view/__init__.py

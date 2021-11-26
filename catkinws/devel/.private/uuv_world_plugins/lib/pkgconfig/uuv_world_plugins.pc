@@ -1,0 +1,8 @@
+prefix=/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_world_plugins
+
+Name: uuv_world_plugins
+Description: Description of uuv_world_plugins
+Version: 0.6.13
+Cflags: -I/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/src/uuv_simulator/uuv_world_plugins/uuv_world_plugins/include
+Libs: -L${prefix}/lib -luuv_underwater_current_plugin
+Requires: gazebo_msgs gazebo_dev

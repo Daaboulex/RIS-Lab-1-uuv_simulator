@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_topic/lib/python3/dist-packages/rqt_topic/__init__.py

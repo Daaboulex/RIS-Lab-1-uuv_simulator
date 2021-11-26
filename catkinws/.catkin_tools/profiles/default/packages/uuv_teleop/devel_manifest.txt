@@ -1,0 +1,8 @@
+uuv_simulator/uuv_teleop
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_teleop/cmake.lock" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/./cmake.lock"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig.cmake" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_teleop/cmake/uuv_teleopConfig.cmake"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_teleop/lib/pkgconfig/uuv_teleop.pc" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_teleop.pc"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_teleop/lib/uuv_teleop/cmake.lock" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_teleop/cmake.lock"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_teleop/lib/uuv_teleop/vehicle_teleop.py" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_teleop/vehicle_teleop.py"
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_teleop/lib/uuv_teleop/finned_uuv_teleop.py" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_teleop/finned_uuv_teleop.py"

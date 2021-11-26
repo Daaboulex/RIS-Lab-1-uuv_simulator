@@ -1,0 +1,10 @@
+diagnostics/diagnostic_aggregator
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig.cmake /home/stephan/catkinws/devel/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig.cmake
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig-version.cmake /home/stephan/catkinws/devel/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig-version.cmake
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/lib/libdiagnostic_aggregator.so /home/stephan/catkinws/devel/lib/libdiagnostic_aggregator.so
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/cmake.lock /home/stephan/catkinws/devel/lib/diagnostic_aggregator/cmake.lock
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/aggregator_node /home/stephan/catkinws/devel/lib/diagnostic_aggregator/aggregator_node
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/analyzer_loader /home/stephan/catkinws/devel/lib/diagnostic_aggregator/analyzer_loader
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/add_analyzers /home/stephan/catkinws/devel/lib/diagnostic_aggregator/add_analyzers
+/home/stephan/catkinws/devel/.private/diagnostic_aggregator/lib/pkgconfig/diagnostic_aggregator.pc /home/stephan/catkinws/devel/lib/pkgconfig/diagnostic_aggregator.pc

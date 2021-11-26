@@ -1,0 +1,6 @@
+ros_comm/rosout
+/home/stephan/catkinws/devel/.private/rosout/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosout/share/rosout/cmake/rosoutConfig-version.cmake /home/stephan/catkinws/devel/share/rosout/cmake/rosoutConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosout/share/rosout/cmake/rosoutConfig.cmake /home/stephan/catkinws/devel/share/rosout/cmake/rosoutConfig.cmake
+/home/stephan/catkinws/devel/.private/rosout/lib/rosout/rosout /home/stephan/catkinws/devel/lib/rosout/rosout
+/home/stephan/catkinws/devel/.private/rosout/lib/pkgconfig/rosout.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosout.pc

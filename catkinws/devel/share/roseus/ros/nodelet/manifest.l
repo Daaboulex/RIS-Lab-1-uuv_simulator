@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/nodelet/share/roseus/ros/nodelet/manifest.l

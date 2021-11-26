@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/smach_msgs/lib/python3/dist-packages/smach_msgs/msg/_SmachContainerStructure.py

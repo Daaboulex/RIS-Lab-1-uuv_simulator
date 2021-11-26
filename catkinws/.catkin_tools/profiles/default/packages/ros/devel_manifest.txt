@@ -1,0 +1,2 @@
+ros/ros
+/home/stephan/catkinws/devel/.private/ros/cmake.lock /home/stephan/catkinws/devel/./cmake.lock

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/turtlesim/share/gennodejs/ros/turtlesim/msg/_index.js

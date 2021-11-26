@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stephan/catkinws/devel/.private/joint_state_publisher/setup.sh

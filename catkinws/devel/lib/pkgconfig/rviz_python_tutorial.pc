@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rviz_python_tutorial/lib/pkgconfig/rviz_python_tutorial.pc

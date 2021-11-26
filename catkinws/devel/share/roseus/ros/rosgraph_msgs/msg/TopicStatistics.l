@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosgraph_msgs/share/roseus/ros/rosgraph_msgs/msg/TopicStatistics.l

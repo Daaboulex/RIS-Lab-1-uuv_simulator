@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/trajectory_msgs/share/roseus/ros/trajectory_msgs/manifest.l

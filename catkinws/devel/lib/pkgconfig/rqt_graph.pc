@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_graph/lib/pkgconfig/rqt_graph.pc

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stephan/catkinws/devel/.private/message_generation/setup.sh

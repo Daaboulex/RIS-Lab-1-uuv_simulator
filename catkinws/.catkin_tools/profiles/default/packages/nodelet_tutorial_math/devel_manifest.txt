@@ -1,0 +1,6 @@
+common_tutorials/nodelet_tutorial_math
+/home/stephan/catkinws/devel/.private/nodelet_tutorial_math/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/nodelet_tutorial_math/share/nodelet_tutorial_math/cmake/nodelet_tutorial_mathConfig.cmake /home/stephan/catkinws/devel/share/nodelet_tutorial_math/cmake/nodelet_tutorial_mathConfig.cmake
+/home/stephan/catkinws/devel/.private/nodelet_tutorial_math/share/nodelet_tutorial_math/cmake/nodelet_tutorial_mathConfig-version.cmake /home/stephan/catkinws/devel/share/nodelet_tutorial_math/cmake/nodelet_tutorial_mathConfig-version.cmake
+/home/stephan/catkinws/devel/.private/nodelet_tutorial_math/lib/libnodelet_math.so /home/stephan/catkinws/devel/lib/libnodelet_math.so
+/home/stephan/catkinws/devel/.private/nodelet_tutorial_math/lib/pkgconfig/nodelet_tutorial_math.pc /home/stephan/catkinws/devel/lib/pkgconfig/nodelet_tutorial_math.pc

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_shell/share/rqt_shell/cmake/rqt_shellConfig-version.cmake

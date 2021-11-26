@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgsConfig-version.cmake

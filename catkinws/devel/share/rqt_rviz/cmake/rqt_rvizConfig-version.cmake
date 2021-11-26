@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_rviz/share/rqt_rviz/cmake/rqt_rvizConfig-version.cmake

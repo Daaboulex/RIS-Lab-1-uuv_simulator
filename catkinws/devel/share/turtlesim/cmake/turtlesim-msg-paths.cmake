@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/turtlesim/share/turtlesim/cmake/turtlesim-msg-paths.cmake

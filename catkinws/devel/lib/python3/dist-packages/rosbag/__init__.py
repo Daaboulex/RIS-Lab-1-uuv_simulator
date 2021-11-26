@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosbag/lib/python3/dist-packages/rosbag/__init__.py

@@ -1,0 +1,10 @@
+ros_comm/rosservice
+/home/stephan/catkinws/devel/.private/rosservice/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig.cmake /home/stephan/catkinws/devel/share/rosservice/cmake/rosserviceConfig.cmake
+/home/stephan/catkinws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig-version.cmake /home/stephan/catkinws/devel/share/rosservice/cmake/rosserviceConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosservice/bin/rosservice /home/stephan/catkinws/devel/bin/rosservice
+/home/stephan/catkinws/devel/.private/rosservice/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/rosservice/lib/rosservice/rosservice /home/stephan/catkinws/devel/lib/rosservice/rosservice
+/home/stephan/catkinws/devel/.private/rosservice/lib/rosservice/cmake.lock /home/stephan/catkinws/devel/lib/rosservice/cmake.lock
+/home/stephan/catkinws/devel/.private/rosservice/lib/python3/dist-packages/rosservice/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rosservice/__init__.py
+/home/stephan/catkinws/devel/.private/rosservice/lib/pkgconfig/rosservice.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosservice.pc

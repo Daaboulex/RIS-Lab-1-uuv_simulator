@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosconsole/share/rosconsole/cmake/rosconsoleConfig-version.cmake

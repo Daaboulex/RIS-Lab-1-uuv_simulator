@@ -1,0 +1,7 @@
+resource_retriever
+/home/stephan/catkinws/devel/.private/resource_retriever/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/resource_retriever/share/resource_retriever/cmake/resource_retrieverConfig.cmake /home/stephan/catkinws/devel/share/resource_retriever/cmake/resource_retrieverConfig.cmake
+/home/stephan/catkinws/devel/.private/resource_retriever/share/resource_retriever/cmake/resource_retrieverConfig-version.cmake /home/stephan/catkinws/devel/share/resource_retriever/cmake/resource_retrieverConfig-version.cmake
+/home/stephan/catkinws/devel/.private/resource_retriever/lib/libresource_retriever.so /home/stephan/catkinws/devel/lib/libresource_retriever.so
+/home/stephan/catkinws/devel/.private/resource_retriever/lib/python3/dist-packages/resource_retriever/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/resource_retriever/__init__.py
+/home/stephan/catkinws/devel/.private/resource_retriever/lib/pkgconfig/resource_retriever.pc /home/stephan/catkinws/devel/lib/pkgconfig/resource_retriever.pc

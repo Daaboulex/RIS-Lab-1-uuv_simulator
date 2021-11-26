@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/eigen_conversions/lib/pkgconfig/eigen_conversions.pc

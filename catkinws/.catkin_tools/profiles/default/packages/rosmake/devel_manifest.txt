@@ -1,0 +1,8 @@
+ros/rosmake
+/home/stephan/catkinws/devel/.private/rosmake/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosmake/share/rosmake/cmake/rosmakeConfig-version.cmake /home/stephan/catkinws/devel/share/rosmake/cmake/rosmakeConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosmake/share/rosmake/cmake/rosmakeConfig.cmake /home/stephan/catkinws/devel/share/rosmake/cmake/rosmakeConfig.cmake
+/home/stephan/catkinws/devel/.private/rosmake/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/rosmake/bin/rosmake /home/stephan/catkinws/devel/bin/rosmake
+/home/stephan/catkinws/devel/.private/rosmake/lib/python3/dist-packages/rosmake/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rosmake/__init__.py
+/home/stephan/catkinws/devel/.private/rosmake/lib/pkgconfig/rosmake.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosmake.pc

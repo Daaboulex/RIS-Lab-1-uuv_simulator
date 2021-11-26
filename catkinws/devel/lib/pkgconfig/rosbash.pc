@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosbash/lib/pkgconfig/rosbash.pc

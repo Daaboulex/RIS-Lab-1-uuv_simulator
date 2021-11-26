@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/gennodejs/lib/gennodejs/gen_nodejs.py

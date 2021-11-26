@@ -1,0 +1,24 @@
+ros_comm/rosbag
+/home/stephan/catkinws/devel/.private/rosbag/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig-version.cmake /home/stephan/catkinws/devel/share/rosbag/cmake/rosbagConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig.cmake /home/stephan/catkinws/devel/share/rosbag/cmake/rosbagConfig.cmake
+/home/stephan/catkinws/devel/.private/rosbag/bin/rosbag /home/stephan/catkinws/devel/bin/rosbag
+/home/stephan/catkinws/devel/.private/rosbag/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/rosbag/lib/librosbag.so /home/stephan/catkinws/devel/lib/librosbag.so
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/record /home/stephan/catkinws/devel/lib/rosbag/record
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/encrypt /home/stephan/catkinws/devel/lib/rosbag/encrypt
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/fix_moved_messages.py /home/stephan/catkinws/devel/lib/rosbag/fix_moved_messages.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/cmake.lock /home/stephan/catkinws/devel/lib/rosbag/cmake.lock
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/makerule.py /home/stephan/catkinws/devel/lib/rosbag/makerule.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/bag2png.py /home/stephan/catkinws/devel/lib/rosbag/bag2png.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/fixbag.py /home/stephan/catkinws/devel/lib/rosbag/fixbag.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/play /home/stephan/catkinws/devel/lib/rosbag/play
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/savemsg.py /home/stephan/catkinws/devel/lib/rosbag/savemsg.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/fixbag_batch.py /home/stephan/catkinws/devel/lib/rosbag/fixbag_batch.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/fix_md5sums.py /home/stephan/catkinws/devel/lib/rosbag/fix_md5sums.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/fix_msg_defs.py /home/stephan/catkinws/devel/lib/rosbag/fix_msg_defs.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/bagsort.py /home/stephan/catkinws/devel/lib/rosbag/bagsort.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/topic_renamer.py /home/stephan/catkinws/devel/lib/rosbag/topic_renamer.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/rosbag/fastrebag.py /home/stephan/catkinws/devel/lib/rosbag/fastrebag.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/python3/dist-packages/rosbag/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rosbag/__init__.py
+/home/stephan/catkinws/devel/.private/rosbag/lib/pkgconfig/rosbag.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosbag.pc

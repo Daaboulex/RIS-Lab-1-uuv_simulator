@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roscpp_tutorials/share/roseus/ros/roscpp_tutorials/manifest.l

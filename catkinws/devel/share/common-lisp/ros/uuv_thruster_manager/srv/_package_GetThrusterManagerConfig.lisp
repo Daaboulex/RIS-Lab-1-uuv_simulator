@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/uuv_thruster_manager/share/common-lisp/ros/uuv_thruster_manager/srv/_package_GetThrusterManagerConfig.lisp

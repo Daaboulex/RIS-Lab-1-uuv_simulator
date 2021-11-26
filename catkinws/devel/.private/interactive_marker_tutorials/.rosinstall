@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stephan/catkinws/devel/.private/interactive_marker_tutorials/setup.sh

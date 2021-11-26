@@ -1,0 +1,48 @@
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig.cmake
+Warning: Source hash: 9202e1f0977703e65c7d3c37f9a66b5c
+Warning: Dest hash: 8f961ccffa19cc7d97d874c94d2f4192
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libcustom_battery_consumer_ros_plugin.so to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libcustom_battery_consumer_ros_plugin.so
+Warning: Source hash: 8aa52a04049dca353c3729454917d57c
+Warning: Dest hash: 33fe3e923ef91651724ef5217f68c494
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_thruster_ros_plugin.so to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libuuv_thruster_ros_plugin.so
+Warning: Source hash: b06b248941d245a05ee0d39a5f701f96
+Warning: Dest hash: 3eb982460967723a149d1b1965f7b80b
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_joint_state_publisher.so to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libuuv_joint_state_publisher.so
+Warning: Source hash: 3d9c54cbfbc754c86ec9e560f802d5a8
+Warning: Dest hash: 19b7ea86e6c029f7103254a97896b9cd
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_accelerations_test_plugin.so to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libuuv_accelerations_test_plugin.so
+Warning: Source hash: 24ea8e79f5bd7556cde070379bff60f0
+Warning: Dest hash: 3677202d81032bd2d486146de5aebfe4
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_fin_ros_plugin.so to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libuuv_fin_ros_plugin.so
+Warning: Source hash: 57f5513fc40f58b0e5dd40b23621f210
+Warning: Dest hash: a516e20622f060e5966dd9a933e3c95a
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_underwater_object_ros_plugin.so to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/libuuv_underwater_object_ros_plugin.so
+Warning: Source hash: 768040b47e63a2f619ba3e894c02bc2e
+Warning: Dest hash: 40ecc9be067ef6f039742fe8f58d1ff5
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/liblinear_battery_ros_plugin.so to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/liblinear_battery_ros_plugin.so
+Warning: Source hash: 6fba2b911e5ab7e45ea04c12618f9a2b
+Warning: Dest hash: 0adb0d0daca031e8cac717a1b3767d25
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/pkgconfig/uuv_gazebo_ros_plugins.pc to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_gazebo_ros_plugins.pc
+Warning: Source hash: be222a25aef5b69b6479ab8e4f037c75
+Warning: Dest hash: ba1be3409b540ddc719402cde85c0265
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/cmake.lock, /home/stephan/catkinws/devel/./cmake.lock)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig.cmake, /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig-version.cmake, /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig-version.cmake)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libcustom_battery_consumer_ros_plugin.so, /home/stephan/catkinws/devel/lib/libcustom_battery_consumer_ros_plugin.so)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_thruster_ros_plugin.so, /home/stephan/catkinws/devel/lib/libuuv_thruster_ros_plugin.so)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_joint_state_publisher.so, /home/stephan/catkinws/devel/lib/libuuv_joint_state_publisher.so)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_accelerations_test_plugin.so, /home/stephan/catkinws/devel/lib/libuuv_accelerations_test_plugin.so)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_fin_ros_plugin.so, /home/stephan/catkinws/devel/lib/libuuv_fin_ros_plugin.so)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/libuuv_underwater_object_ros_plugin.so, /home/stephan/catkinws/devel/lib/libuuv_underwater_object_ros_plugin.so)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/liblinear_battery_ros_plugin.so, /home/stephan/catkinws/devel/lib/liblinear_battery_ros_plugin.so)
+Cleaning: (/home/stephan/catkinws/devel/.private/uuv_gazebo_ros_plugins/lib/pkgconfig/uuv_gazebo_ros_plugins.pc, /home/stephan/catkinws/devel/lib/pkgconfig/uuv_gazebo_ros_plugins.pc)
+Unlinking: /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig.cmake
+Unlinking: /home/stephan/catkinws/devel/share/uuv_gazebo_ros_plugins/cmake/uuv_gazebo_ros_pluginsConfig-version.cmake
+Unlinking: /home/stephan/catkinws/devel/lib/libcustom_battery_consumer_ros_plugin.so
+Unlinking: /home/stephan/catkinws/devel/lib/libuuv_thruster_ros_plugin.so
+Unlinking: /home/stephan/catkinws/devel/lib/libuuv_joint_state_publisher.so
+Unlinking: /home/stephan/catkinws/devel/lib/libuuv_accelerations_test_plugin.so
+Unlinking: /home/stephan/catkinws/devel/lib/libuuv_fin_ros_plugin.so
+Unlinking: /home/stephan/catkinws/devel/lib/libuuv_underwater_object_ros_plugin.so
+Unlinking: /home/stephan/catkinws/devel/lib/liblinear_battery_ros_plugin.so
+Unlinking: /home/stephan/catkinws/devel/lib/pkgconfig/uuv_gazebo_ros_plugins.pc

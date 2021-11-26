@@ -1,0 +1,6 @@
+qt_gui_core/qt_dotgraph
+/home/stephan/catkinws/devel/.private/qt_dotgraph/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/qt_dotgraph/share/qt_dotgraph/cmake/qt_dotgraphConfig.cmake /home/stephan/catkinws/devel/share/qt_dotgraph/cmake/qt_dotgraphConfig.cmake
+/home/stephan/catkinws/devel/.private/qt_dotgraph/share/qt_dotgraph/cmake/qt_dotgraphConfig-version.cmake /home/stephan/catkinws/devel/share/qt_dotgraph/cmake/qt_dotgraphConfig-version.cmake
+/home/stephan/catkinws/devel/.private/qt_dotgraph/lib/python3/dist-packages/qt_dotgraph/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/qt_dotgraph/__init__.py
+/home/stephan/catkinws/devel/.private/qt_dotgraph/lib/pkgconfig/qt_dotgraph.pc /home/stephan/catkinws/devel/lib/pkgconfig/qt_dotgraph.pc

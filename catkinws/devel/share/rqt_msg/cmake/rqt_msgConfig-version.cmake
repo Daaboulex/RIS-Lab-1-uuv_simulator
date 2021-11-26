@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_msg/share/rqt_msg/cmake/rqt_msgConfig-version.cmake

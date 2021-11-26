@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/rqt_console
+
+Name: rqt_console
+Description: Description of rqt_console
+Version: 0.4.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

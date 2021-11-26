@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/src/uuv_simulator/uuv_descriptions
+# Build directory: /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/build/uuv_descriptions
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_uuv_descriptions_rostest_test_test_urdf_files.test "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/build/uuv_descriptions/catkin_generated/env_cached.sh" "/usr/bin/python3" "/home/stephan/catkinws/src/catkin/cmake/test/run_tests.py" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/build/uuv_descriptions/test_results/uuv_descriptions/rostest-test_test_urdf_files.xml" "--return-code" "/usr/bin/python3 /home/stephan/catkinws/src/ros_comm/rostest/scripts/rostest --pkgdir=/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/src/uuv_simulator/uuv_descriptions --package=uuv_descriptions --results-filename test_test_urdf_files.xml --results-base-dir \"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/build/uuv_descriptions/test_results\" /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/src/uuv_simulator/uuv_descriptions/test/test_urdf_files.test ")
+set_tests_properties(_ctest_uuv_descriptions_rostest_test_test_urdf_files.test PROPERTIES  _BACKTRACE_TRIPLES "/home/stephan/catkinws/src/catkin/cmake/test/tests.cmake;160;add_test;/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/rostest/cmake/rostest-extras.cmake;52;catkin_run_tests_target;/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/src/uuv_simulator/uuv_descriptions/CMakeLists.txt;32;add_rostest;/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/src/uuv_simulator/uuv_descriptions/CMakeLists.txt;0;")
+subdirs("gtest")

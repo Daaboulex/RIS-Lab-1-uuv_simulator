@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_pose_view/lib/python3/dist-packages/rqt_pose_view/__init__.py

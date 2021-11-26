@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/xmlrpcpp
+
+Name: xmlrpcpp
+Description: Description of xmlrpcpp
+Version: 1.15.13
+Cflags: -I/home/stephan/catkinws/src/ros_comm/xmlrpcpp/include
+Libs: -L${prefix}/lib -lxmlrpcpp
+Requires: cpp_common rostime

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_action/lib/pkgconfig/rqt_action.pc

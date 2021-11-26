@@ -1,0 +1,6 @@
+bond_core/bondpy
+/home/stephan/catkinws/devel/.private/bondpy/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/bondpy/share/bondpy/cmake/bondpyConfig-version.cmake /home/stephan/catkinws/devel/share/bondpy/cmake/bondpyConfig-version.cmake
+/home/stephan/catkinws/devel/.private/bondpy/share/bondpy/cmake/bondpyConfig.cmake /home/stephan/catkinws/devel/share/bondpy/cmake/bondpyConfig.cmake
+/home/stephan/catkinws/devel/.private/bondpy/lib/python3/dist-packages/bondpy/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/bondpy/__init__.py
+/home/stephan/catkinws/devel/.private/bondpy/lib/pkgconfig/bondpy.pc /home/stephan/catkinws/devel/lib/pkgconfig/bondpy.pc

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/gennodejs/share/gennodejs/cmake/gennodejsConfig.cmake

@@ -1,0 +1,10 @@
+ros/rosbash
+/home/stephan/catkinws/devel/.private/rosbash/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosbash/share/rosbash/cmake/rosbashConfig-version.cmake /home/stephan/catkinws/devel/share/rosbash/cmake/rosbashConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosbash/share/rosbash/cmake/rosbashConfig.cmake /home/stephan/catkinws/devel/share/rosbash/cmake/rosbashConfig.cmake
+/home/stephan/catkinws/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.bash /home/stephan/catkinws/devel/etc/catkin/profile.d/15.rosbash.bash
+/home/stephan/catkinws/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.tcsh /home/stephan/catkinws/devel/etc/catkin/profile.d/15.rosbash.tcsh
+/home/stephan/catkinws/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.zsh /home/stephan/catkinws/devel/etc/catkin/profile.d/15.rosbash.zsh
+/home/stephan/catkinws/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.fish /home/stephan/catkinws/devel/etc/catkin/profile.d/15.rosbash.fish
+/home/stephan/catkinws/devel/.private/rosbash/bin/rosrun /home/stephan/catkinws/devel/bin/rosrun
+/home/stephan/catkinws/devel/.private/rosbash/lib/pkgconfig/rosbash.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosbash.pc

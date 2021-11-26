@@ -1,0 +1,6 @@
+rqt_nav_view
+/home/stephan/catkinws/devel/.private/rqt_nav_view/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rqt_nav_view/share/rqt_nav_view/cmake/rqt_nav_viewConfig.cmake /home/stephan/catkinws/devel/share/rqt_nav_view/cmake/rqt_nav_viewConfig.cmake
+/home/stephan/catkinws/devel/.private/rqt_nav_view/share/rqt_nav_view/cmake/rqt_nav_viewConfig-version.cmake /home/stephan/catkinws/devel/share/rqt_nav_view/cmake/rqt_nav_viewConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rqt_nav_view/lib/python3/dist-packages/rqt_nav_view/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rqt_nav_view/__init__.py
+/home/stephan/catkinws/devel/.private/rqt_nav_view/lib/pkgconfig/rqt_nav_view.pc /home/stephan/catkinws/devel/lib/pkgconfig/rqt_nav_view.pc

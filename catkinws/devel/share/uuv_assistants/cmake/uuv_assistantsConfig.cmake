@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake

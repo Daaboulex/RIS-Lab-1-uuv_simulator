@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roscpp/lib/python3/dist-packages/roscpp/__init__.py

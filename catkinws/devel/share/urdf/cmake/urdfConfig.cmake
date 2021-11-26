@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/urdf/share/urdf/cmake/urdfConfig.cmake

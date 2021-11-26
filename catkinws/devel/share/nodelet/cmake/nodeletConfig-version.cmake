@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/nodelet/share/nodelet/cmake/nodeletConfig-version.cmake

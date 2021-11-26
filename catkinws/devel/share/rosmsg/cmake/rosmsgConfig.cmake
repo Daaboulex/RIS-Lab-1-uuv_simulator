@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosmsg/share/rosmsg/cmake/rosmsgConfig.cmake

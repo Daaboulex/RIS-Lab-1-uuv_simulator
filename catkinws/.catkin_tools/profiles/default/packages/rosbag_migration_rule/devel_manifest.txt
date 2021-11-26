@@ -1,0 +1,5 @@
+rosbag_migration_rule
+/home/stephan/catkinws/devel/.private/rosbag_migration_rule/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosbag_migration_rule/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig.cmake /home/stephan/catkinws/devel/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig.cmake
+/home/stephan/catkinws/devel/.private/rosbag_migration_rule/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig-version.cmake /home/stephan/catkinws/devel/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosbag_migration_rule/lib/pkgconfig/rosbag_migration_rule.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosbag_migration_rule.pc

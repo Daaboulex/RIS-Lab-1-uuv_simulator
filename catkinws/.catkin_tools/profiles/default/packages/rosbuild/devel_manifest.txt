@@ -1,0 +1,11 @@
+ros/rosbuild
+/home/stephan/catkinws/devel/.private/rosbuild/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosbuild/share/rosbuild/cmake/rosbuildConfig.cmake /home/stephan/catkinws/devel/share/rosbuild/cmake/rosbuildConfig.cmake
+/home/stephan/catkinws/devel/.private/rosbuild/share/rosbuild/cmake/rosbuildConfig-version.cmake /home/stephan/catkinws/devel/share/rosbuild/cmake/rosbuildConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosbuild/share/ros/core/rosbuild/bin/cmake.lock /home/stephan/catkinws/devel/share/ros/core/rosbuild/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/rosbuild/share/ros/core/rosbuild/bin/download_checkmd5.py /home/stephan/catkinws/devel/share/ros/core/rosbuild/bin/download_checkmd5.py
+/home/stephan/catkinws/devel/.private/rosbuild/share/ros/core/rosbuild/bin/check_same_directories.py /home/stephan/catkinws/devel/share/ros/core/rosbuild/bin/check_same_directories.py
+/home/stephan/catkinws/devel/.private/rosbuild/share/ros/core/rosbuild/tests/cmake.lock /home/stephan/catkinws/devel/share/ros/core/rosbuild/tests/cmake.lock
+/home/stephan/catkinws/devel/.private/rosbuild/share/ros/core/rosbuild/tests/count_cores.py /home/stephan/catkinws/devel/share/ros/core/rosbuild/tests/count_cores.py
+/home/stephan/catkinws/devel/.private/rosbuild/etc/catkin/profile.d/10.rosbuild.sh /home/stephan/catkinws/devel/etc/catkin/profile.d/10.rosbuild.sh
+/home/stephan/catkinws/devel/.private/rosbuild/lib/pkgconfig/rosbuild.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosbuild.pc

@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/bondpy
+
+Name: bondpy
+Description: Description of bondpy
+Version: 1.8.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

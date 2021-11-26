@@ -1,0 +1,6 @@
+visualization_tutorials/librviz_tutorial
+/home/stephan/catkinws/devel/.private/librviz_tutorial/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/librviz_tutorial/share/librviz_tutorial/cmake/librviz_tutorialConfig-version.cmake /home/stephan/catkinws/devel/share/librviz_tutorial/cmake/librviz_tutorialConfig-version.cmake
+/home/stephan/catkinws/devel/.private/librviz_tutorial/share/librviz_tutorial/cmake/librviz_tutorialConfig.cmake /home/stephan/catkinws/devel/share/librviz_tutorial/cmake/librviz_tutorialConfig.cmake
+/home/stephan/catkinws/devel/.private/librviz_tutorial/lib/pkgconfig/librviz_tutorial.pc /home/stephan/catkinws/devel/lib/pkgconfig/librviz_tutorial.pc
+/home/stephan/catkinws/devel/.private/librviz_tutorial/lib/librviz_tutorial/myviz /home/stephan/catkinws/devel/lib/librviz_tutorial/myviz

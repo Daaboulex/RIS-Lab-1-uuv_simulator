@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_service_caller/lib/python3/dist-packages/rqt_service_caller/__init__.py

@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/smclib
+
+Name: smclib
+Description: Description of smclib
+Version: 1.8.6
+Cflags: -I/home/stephan/catkinws/src/bond_core/smclib/include
+Libs: -L${prefix}/lib 
+Requires: 

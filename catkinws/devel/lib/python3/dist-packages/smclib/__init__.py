@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/smclib/lib/python3/dist-packages/smclib/__init__.py

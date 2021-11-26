@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_service_caller/lib/pkgconfig/rqt_service_caller.pc

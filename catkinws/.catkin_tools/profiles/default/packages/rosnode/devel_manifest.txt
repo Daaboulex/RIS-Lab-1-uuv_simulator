@@ -1,0 +1,8 @@
+ros_comm/rosnode
+/home/stephan/catkinws/devel/.private/rosnode/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosnode/share/rosnode/cmake/rosnodeConfig-version.cmake /home/stephan/catkinws/devel/share/rosnode/cmake/rosnodeConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosnode/share/rosnode/cmake/rosnodeConfig.cmake /home/stephan/catkinws/devel/share/rosnode/cmake/rosnodeConfig.cmake
+/home/stephan/catkinws/devel/.private/rosnode/bin/cmake.lock /home/stephan/catkinws/devel/bin/cmake.lock
+/home/stephan/catkinws/devel/.private/rosnode/bin/rosnode /home/stephan/catkinws/devel/bin/rosnode
+/home/stephan/catkinws/devel/.private/rosnode/lib/python3/dist-packages/rosnode/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rosnode/__init__.py
+/home/stephan/catkinws/devel/.private/rosnode/lib/pkgconfig/rosnode.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosnode.pc

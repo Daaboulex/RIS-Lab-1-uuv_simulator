@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/rosservice
+
+Name: rosservice
+Description: Description of rosservice
+Version: 1.15.13
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

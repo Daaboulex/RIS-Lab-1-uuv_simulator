@@ -1,0 +1,2 @@
+nodelet_core/nodelet_core
+/home/stephan/catkinws/devel/.private/nodelet_core/cmake.lock /home/stephan/catkinws/devel/./cmake.lock

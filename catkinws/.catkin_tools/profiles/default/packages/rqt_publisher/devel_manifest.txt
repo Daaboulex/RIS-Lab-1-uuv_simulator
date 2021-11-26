@@ -1,0 +1,8 @@
+rqt_publisher
+/home/stephan/catkinws/devel/.private/rqt_publisher/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rqt_publisher/share/rqt_publisher/cmake/rqt_publisherConfig-version.cmake /home/stephan/catkinws/devel/share/rqt_publisher/cmake/rqt_publisherConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rqt_publisher/share/rqt_publisher/cmake/rqt_publisherConfig.cmake /home/stephan/catkinws/devel/share/rqt_publisher/cmake/rqt_publisherConfig.cmake
+/home/stephan/catkinws/devel/.private/rqt_publisher/lib/python3/dist-packages/rqt_publisher/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/rqt_publisher/__init__.py
+/home/stephan/catkinws/devel/.private/rqt_publisher/lib/pkgconfig/rqt_publisher.pc /home/stephan/catkinws/devel/lib/pkgconfig/rqt_publisher.pc
+/home/stephan/catkinws/devel/.private/rqt_publisher/lib/rqt_publisher/cmake.lock /home/stephan/catkinws/devel/lib/rqt_publisher/cmake.lock
+/home/stephan/catkinws/devel/.private/rqt_publisher/lib/rqt_publisher/rqt_publisher /home/stephan/catkinws/devel/lib/rqt_publisher/rqt_publisher

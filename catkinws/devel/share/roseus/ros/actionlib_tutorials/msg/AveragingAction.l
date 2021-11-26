@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/actionlib_tutorials/share/roseus/ros/actionlib_tutorials/msg/AveragingAction.l

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_nav_view/lib/python3/dist-packages/rqt_nav_view/__init__.py

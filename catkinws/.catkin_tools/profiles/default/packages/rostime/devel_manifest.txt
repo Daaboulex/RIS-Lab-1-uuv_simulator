@@ -1,0 +1,6 @@
+roscpp_core/rostime
+/home/stephan/catkinws/devel/.private/rostime/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rostime/share/rostime/cmake/rostimeConfig-version.cmake /home/stephan/catkinws/devel/share/rostime/cmake/rostimeConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rostime/share/rostime/cmake/rostimeConfig.cmake /home/stephan/catkinws/devel/share/rostime/cmake/rostimeConfig.cmake
+/home/stephan/catkinws/devel/.private/rostime/lib/librostime.so /home/stephan/catkinws/devel/lib/librostime.so
+/home/stephan/catkinws/devel/.private/rostime/lib/pkgconfig/rostime.pc /home/stephan/catkinws/devel/lib/pkgconfig/rostime.pc

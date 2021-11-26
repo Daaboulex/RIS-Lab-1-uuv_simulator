@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/urdf_parser_plugin/share/urdf_parser_plugin/cmake/urdf_parser_pluginConfig-version.cmake

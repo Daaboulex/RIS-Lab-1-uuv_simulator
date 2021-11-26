@@ -1,0 +1,15 @@
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_thruster_manager/share/uuv_thruster_manager/cmake/uuv_thruster_managerConfig.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_thruster_manager/cmake/uuv_thruster_managerConfig.cmake
+Warning: Source hash: 7075c4b779ffc22e6e621b2f66595aac
+Warning: Dest hash: d3115eb0626f947eec9413ab0debc2e2
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_thruster_manager/share/uuv_thruster_manager/cmake/uuv_thruster_manager-msg-extras.cmake to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/share/uuv_thruster_manager/cmake/uuv_thruster_manager-msg-extras.cmake
+Warning: Source hash: 4eba08bae6e30185e5ba4a935ba48fa6
+Warning: Dest hash: 28476c54adb579265f3d3c7c185bc001
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_thruster_manager/lib/python3/dist-packages/uuv_thrusters/__init__.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/python3/dist-packages/uuv_thrusters/__init__.py
+Warning: Source hash: 9187ce769382e1702a4ae191816ca905
+Warning: Dest hash: 59deb4bd92b2c282a0c1885ee5008048
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_thruster_manager/lib/pkgconfig/uuv_thruster_manager.pc to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/pkgconfig/uuv_thruster_manager.pc
+Warning: Source hash: 55a82a80ce4ac0d413c7d008576234c2
+Warning: Dest hash: 622f3a1f05e58a177ca74b8b48bc4aa6
+Warning: Cannot symlink from /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_thruster_manager/lib/uuv_thruster_manager/thruster_allocator.py to existing file /home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/lib/uuv_thruster_manager/thruster_allocator.py
+Warning: Source hash: ff722c759287d4b1365c0027e72bdc89
+Warning: Dest hash: 955dcc89980321aa4a456a72d22dd91a

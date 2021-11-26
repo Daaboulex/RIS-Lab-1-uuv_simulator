@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/smach_ros/lib/python3/dist-packages/smach_ros/__init__.py

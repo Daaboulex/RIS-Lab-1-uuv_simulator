@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosclean/share/rosclean/cmake/roscleanConfig.cmake

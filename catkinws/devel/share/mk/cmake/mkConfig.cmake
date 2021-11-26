@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/mk/share/mk/cmake/mkConfig.cmake

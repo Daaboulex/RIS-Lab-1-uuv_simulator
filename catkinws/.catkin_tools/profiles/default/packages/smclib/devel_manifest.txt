@@ -1,0 +1,6 @@
+bond_core/smclib
+/home/stephan/catkinws/devel/.private/smclib/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/smclib/share/smclib/cmake/smclibConfig-version.cmake /home/stephan/catkinws/devel/share/smclib/cmake/smclibConfig-version.cmake
+/home/stephan/catkinws/devel/.private/smclib/share/smclib/cmake/smclibConfig.cmake /home/stephan/catkinws/devel/share/smclib/cmake/smclibConfig.cmake
+/home/stephan/catkinws/devel/.private/smclib/lib/python3/dist-packages/smclib/__init__.py /home/stephan/catkinws/devel/lib/python3/dist-packages/smclib/__init__.py
+/home/stephan/catkinws/devel/.private/smclib/lib/pkgconfig/smclib.pc /home/stephan/catkinws/devel/lib/pkgconfig/smclib.pc

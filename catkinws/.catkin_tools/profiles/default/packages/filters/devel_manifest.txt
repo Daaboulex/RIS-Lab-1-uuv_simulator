@@ -1,0 +1,10 @@
+filters
+/home/stephan/catkinws/devel/.private/filters/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/filters/share/filters/cmake/filtersConfig.cmake /home/stephan/catkinws/devel/share/filters/cmake/filtersConfig.cmake
+/home/stephan/catkinws/devel/.private/filters/share/filters/cmake/filtersConfig-version.cmake /home/stephan/catkinws/devel/share/filters/cmake/filtersConfig-version.cmake
+/home/stephan/catkinws/devel/.private/filters/lib/libtransfer_function.so /home/stephan/catkinws/devel/lib/libtransfer_function.so
+/home/stephan/catkinws/devel/.private/filters/lib/libincrement.so /home/stephan/catkinws/devel/lib/libincrement.so
+/home/stephan/catkinws/devel/.private/filters/lib/libparams.so /home/stephan/catkinws/devel/lib/libparams.so
+/home/stephan/catkinws/devel/.private/filters/lib/libmean.so /home/stephan/catkinws/devel/lib/libmean.so
+/home/stephan/catkinws/devel/.private/filters/lib/libmedian.so /home/stephan/catkinws/devel/lib/libmedian.so
+/home/stephan/catkinws/devel/.private/filters/lib/pkgconfig/filters.pc /home/stephan/catkinws/devel/lib/pkgconfig/filters.pc

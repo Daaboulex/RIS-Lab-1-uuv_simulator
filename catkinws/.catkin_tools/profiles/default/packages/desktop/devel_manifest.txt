@@ -1,0 +1,2 @@
+metapackages/desktop
+/home/stephan/catkinws/devel/.private/desktop/cmake.lock /home/stephan/catkinws/devel/./cmake.lock

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/kdl_parser/share/kdl_parser/cmake/kdl_parserConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_web/lib/python3/dist-packages/rqt_web/__init__.py

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosout/share/rosout/cmake/rosoutConfig.cmake

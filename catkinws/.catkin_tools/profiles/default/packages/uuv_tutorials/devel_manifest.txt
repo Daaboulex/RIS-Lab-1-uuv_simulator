@@ -1,0 +1,2 @@
+uuv_simulator/uuv_tutorials/uuv_tutorials
+"/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/.private/uuv_tutorials/cmake.lock" "/home/stephan/Gitkraken/RIS Lab 1 uuv_simulator/catkinws/devel/./cmake.lock"

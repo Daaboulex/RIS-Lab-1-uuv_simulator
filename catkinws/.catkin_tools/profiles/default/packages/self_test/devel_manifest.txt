@@ -1,0 +1,12 @@
+diagnostics/self_test
+/home/stephan/catkinws/devel/.private/self_test/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/self_test/share/self_test/cmake/self_testConfig-version.cmake /home/stephan/catkinws/devel/share/self_test/cmake/self_testConfig-version.cmake
+/home/stephan/catkinws/devel/.private/self_test/share/self_test/cmake/self_testConfig.cmake /home/stephan/catkinws/devel/share/self_test/cmake/self_testConfig.cmake
+/home/stephan/catkinws/devel/.private/self_test/lib/pkgconfig/self_test.pc /home/stephan/catkinws/devel/lib/pkgconfig/self_test.pc
+/home/stephan/catkinws/devel/.private/self_test/lib/self_test/selftest_example /home/stephan/catkinws/devel/lib/self_test/selftest_example
+/home/stephan/catkinws/devel/.private/self_test/lib/self_test/nominal_selftest /home/stephan/catkinws/devel/lib/self_test/nominal_selftest
+/home/stephan/catkinws/devel/.private/self_test/lib/self_test/exception_selftest /home/stephan/catkinws/devel/lib/self_test/exception_selftest
+/home/stephan/catkinws/devel/.private/self_test/lib/self_test/no_id_selftest /home/stephan/catkinws/devel/lib/self_test/no_id_selftest
+/home/stephan/catkinws/devel/.private/self_test/lib/self_test/error_selftest /home/stephan/catkinws/devel/lib/self_test/error_selftest
+/home/stephan/catkinws/devel/.private/self_test/lib/self_test/selftest_rostest /home/stephan/catkinws/devel/lib/self_test/selftest_rostest
+/home/stephan/catkinws/devel/.private/self_test/lib/self_test/run_selftest /home/stephan/catkinws/devel/lib/self_test/run_selftest

@@ -1,0 +1,7 @@
+rosconsole_bridge
+/home/stephan/catkinws/devel/.private/rosconsole_bridge/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/rosconsole_bridge/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig.cmake /home/stephan/catkinws/devel/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig.cmake
+/home/stephan/catkinws/devel/.private/rosconsole_bridge/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig-version.cmake /home/stephan/catkinws/devel/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig-version.cmake
+/home/stephan/catkinws/devel/.private/rosconsole_bridge/lib/librosconsole_bridge.so /home/stephan/catkinws/devel/lib/librosconsole_bridge.so
+/home/stephan/catkinws/devel/.private/rosconsole_bridge/lib/rosconsole_bridge/cleanup /home/stephan/catkinws/devel/lib/rosconsole_bridge/cleanup
+/home/stephan/catkinws/devel/.private/rosconsole_bridge/lib/pkgconfig/rosconsole_bridge.pc /home/stephan/catkinws/devel/lib/pkgconfig/rosconsole_bridge.pc

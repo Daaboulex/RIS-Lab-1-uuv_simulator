@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosmake/lib/python3/dist-packages/rosmake/__init__.py

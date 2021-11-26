@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/bond/share/bond/cmake/bond-msg-paths.cmake

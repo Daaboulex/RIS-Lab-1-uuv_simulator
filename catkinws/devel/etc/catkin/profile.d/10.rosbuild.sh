@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosbuild/etc/catkin/profile.d/10.rosbuild.sh

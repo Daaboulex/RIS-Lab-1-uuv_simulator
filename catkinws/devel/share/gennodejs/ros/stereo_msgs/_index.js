@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/stereo_msgs/share/gennodejs/ros/stereo_msgs/_index.js

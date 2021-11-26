@@ -1,0 +1,8 @@
+robot_state_publisher
+/home/stephan/catkinws/devel/.private/robot_state_publisher/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/robot_state_publisher/share/robot_state_publisher/cmake/robot_state_publisherConfig-version.cmake /home/stephan/catkinws/devel/share/robot_state_publisher/cmake/robot_state_publisherConfig-version.cmake
+/home/stephan/catkinws/devel/.private/robot_state_publisher/share/robot_state_publisher/cmake/robot_state_publisherConfig.cmake /home/stephan/catkinws/devel/share/robot_state_publisher/cmake/robot_state_publisherConfig.cmake
+/home/stephan/catkinws/devel/.private/robot_state_publisher/lib/libjoint_state_listener.so /home/stephan/catkinws/devel/lib/libjoint_state_listener.so
+/home/stephan/catkinws/devel/.private/robot_state_publisher/lib/librobot_state_publisher_solver.so /home/stephan/catkinws/devel/lib/librobot_state_publisher_solver.so
+/home/stephan/catkinws/devel/.private/robot_state_publisher/lib/robot_state_publisher/robot_state_publisher /home/stephan/catkinws/devel/lib/robot_state_publisher/robot_state_publisher
+/home/stephan/catkinws/devel/.private/robot_state_publisher/lib/pkgconfig/robot_state_publisher.pc /home/stephan/catkinws/devel/lib/pkgconfig/robot_state_publisher.pc

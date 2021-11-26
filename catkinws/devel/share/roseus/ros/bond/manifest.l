@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/bond/share/roseus/ros/bond/manifest.l

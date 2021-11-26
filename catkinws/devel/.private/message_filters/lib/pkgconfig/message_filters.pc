@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/message_filters
+
+Name: message_filters
+Description: Description of message_filters
+Version: 1.15.13
+Cflags: -I/home/stephan/catkinws/src/ros_comm/message_filters/include
+Libs: -L${prefix}/lib -lmessage_filters
+Requires: roscpp rosconsole

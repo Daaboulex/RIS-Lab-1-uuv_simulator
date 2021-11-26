@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_moveit/lib/pkgconfig/rqt_moveit.pc

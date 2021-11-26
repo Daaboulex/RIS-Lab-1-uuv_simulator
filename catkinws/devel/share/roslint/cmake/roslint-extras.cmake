@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roslint/share/roslint/cmake/roslint-extras.cmake

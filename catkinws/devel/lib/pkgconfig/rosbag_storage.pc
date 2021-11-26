@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosbag_storage/lib/pkgconfig/rosbag_storage.pc

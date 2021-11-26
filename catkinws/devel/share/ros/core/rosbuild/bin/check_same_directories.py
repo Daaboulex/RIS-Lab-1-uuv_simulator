@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rosbuild/share/ros/core/rosbuild/bin/check_same_directories.py

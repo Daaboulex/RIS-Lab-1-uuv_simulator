@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/pluginlib_tutorials/share/pluginlib_tutorials/cmake/pluginlib_tutorialsConfig-version.cmake

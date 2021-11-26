@@ -1,0 +1,8 @@
+prefix=/home/stephan/catkinws/devel/.private/roscpp
+
+Name: roscpp
+Description: Description of roscpp
+Version: 1.15.13
+Cflags: -I/home/stephan/catkinws/devel/.private/roscpp/include -I/home/stephan/catkinws/src/ros_comm/roscpp/include -I/home/stephan/catkinws/devel/.private/roscpp/include/ros -I/usr/include
+Libs: -L${prefix}/lib -lroscpp -lpthread /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+Requires: cpp_common message_runtime rosconsole roscpp_serialization roscpp_traits rosgraph_msgs rostime std_msgs xmlrpcpp

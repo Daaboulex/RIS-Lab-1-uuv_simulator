@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roscpp_serialization/lib/pkgconfig/roscpp_serialization.pc

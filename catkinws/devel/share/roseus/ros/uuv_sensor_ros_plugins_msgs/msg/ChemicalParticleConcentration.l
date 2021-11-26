@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/uuv_sensor_ros_plugins_msgs/share/roseus/ros/uuv_sensor_ros_plugins_msgs/msg/ChemicalParticleConcentration.l

@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_shell/lib/python3/dist-packages/rqt_shell/__init__.py

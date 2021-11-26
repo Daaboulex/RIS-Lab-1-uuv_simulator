@@ -1,0 +1,5 @@
+ros/roslang
+/home/stephan/catkinws/devel/.private/roslang/cmake.lock /home/stephan/catkinws/devel/./cmake.lock
+/home/stephan/catkinws/devel/.private/roslang/share/roslang/cmake/roslangConfig.cmake /home/stephan/catkinws/devel/share/roslang/cmake/roslangConfig.cmake
+/home/stephan/catkinws/devel/.private/roslang/share/roslang/cmake/roslangConfig-version.cmake /home/stephan/catkinws/devel/share/roslang/cmake/roslangConfig-version.cmake
+/home/stephan/catkinws/devel/.private/roslang/lib/pkgconfig/roslang.pc /home/stephan/catkinws/devel/lib/pkgconfig/roslang.pc

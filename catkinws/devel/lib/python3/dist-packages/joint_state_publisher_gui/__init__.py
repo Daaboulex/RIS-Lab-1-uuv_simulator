@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/joint_state_publisher_gui/lib/python3/dist-packages/joint_state_publisher_gui/__init__.py

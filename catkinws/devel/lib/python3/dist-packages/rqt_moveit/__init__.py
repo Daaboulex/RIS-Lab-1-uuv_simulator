@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/rqt_moveit/lib/python3/dist-packages/rqt_moveit/__init__.py

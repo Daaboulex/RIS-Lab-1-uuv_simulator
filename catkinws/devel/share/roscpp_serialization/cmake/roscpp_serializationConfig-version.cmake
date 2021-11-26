@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/roscpp_serialization/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake

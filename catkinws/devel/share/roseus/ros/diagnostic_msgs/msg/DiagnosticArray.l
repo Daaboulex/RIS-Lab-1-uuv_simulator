@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/diagnostic_msgs/share/roseus/ros/diagnostic_msgs/msg/DiagnosticArray.l

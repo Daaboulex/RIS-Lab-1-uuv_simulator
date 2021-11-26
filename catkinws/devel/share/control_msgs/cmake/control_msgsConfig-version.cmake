@@ -1,0 +1,1 @@
+/home/stephan/catkinws/devel/.private/control_msgs/share/control_msgs/cmake/control_msgsConfig-version.cmake
