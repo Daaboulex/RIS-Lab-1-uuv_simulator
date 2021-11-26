@@ -18,6 +18,6 @@ In this task we created a node that outputs forces and torques as input to contr
 
 In this task we had to create and control our own robot. There were many steps to this task such as creating the URDF file for our initial design, deciding the most optimal placement for the thrusters in our Robot. Additionally, we had to write our own node for the movement that takes in torques and forces, while publishing thrust commands in a conversion tat is taking place as a service and finally writing a launch file that loads the robot in the underwater world using the node created in part 3 and the node created in earlier in the task.
 
-![Front Render](![image](https://user-images.githubusercontent.com/39669593/143660832-de003e74-263f-4508-87b3-1fb9036d26e5.png))
+![Front Render](https://github.com/Daaboulex/RIS-Lab-1-uuv_simulator/blob/main/Task4_URDF/Render/front.jpeg?raw=true)
 
 ![Top Render](https://github.com/Daaboulex/RIS-Lab-1-uuv_simulator/blob/main/Task4_URDF/Render/top.jpeg?raw=true)
